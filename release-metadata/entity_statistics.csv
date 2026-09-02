@@ -1,0 +1,1305 @@
+file,category,entity_type,sector,pair_ids,rows,share_of_category_rows
+01-make_statement.csv,Make Statement,president,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,prime minister,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,foreign minister,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,defense minister,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,interior minister,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,government spokesperson,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,press secretary,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,parliament speaker,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,member of parliament,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,regional governor,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,mayor,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,local council chair,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,UN representative,diplomatic/international,2,24,0.02
+01-make_statement.csv,Make Statement,OSCE observer,diplomatic/international,2,24,0.02
+01-make_statement.csv,Make Statement,ambassador,diplomatic/international,2,24,0.02
+01-make_statement.csv,Make Statement,peace negotiator,diplomatic/international,2,24,0.02
+01-make_statement.csv,Make Statement,human-rights investigator,justice/legal,2,24,0.02
+01-make_statement.csv,Make Statement,community ombudsman,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,prosecutor,justice/legal,2,24,0.02
+01-make_statement.csv,Make Statement,judge,justice/legal,2,24,0.02
+01-make_statement.csv,Make Statement,police chief,military/security,2,24,0.02
+01-make_statement.csv,Make Statement,border service chief,military/security,2,24,0.02
+01-make_statement.csv,Make Statement,checkpoint commander,military/security,2,24,0.02
+01-make_statement.csv,Make Statement,security service officer,military/security,2,24,0.02
+01-make_statement.csv,Make Statement,army commander,military/security,2,24,0.02
+01-make_statement.csv,Make Statement,general staff officer,military/security,2,24,0.02
+01-make_statement.csv,Make Statement,military police officer,military/security,2,24,0.02
+01-make_statement.csv,Make Statement,air defense officer,military/security,2,24,0.02
+01-make_statement.csv,Make Statement,drone unit operator,military/security,2,24,0.02
+01-make_statement.csv,Make Statement,cybersecurity chief,economy/infrastructure,2,24,0.02
+01-make_statement.csv,Make Statement,telecom operator,economy/infrastructure,2,24,0.02
+01-make_statement.csv,Make Statement,national bank official,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,finance minister,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,anti-corruption officer,military/security,2,24,0.02
+01-make_statement.csv,Make Statement,municipal auditor,government/political,2,24,0.02
+01-make_statement.csv,Make Statement,public procurement officer,military/security,1,12,0.01
+01-make_statement.csv,Make Statement,housing commissioner,government/political,1,12,0.01
+01-make_statement.csv,Make Statement,shelter manager,humanitarian/civil society,1,12,0.01
+01-make_statement.csv,Make Statement,aid coordinator,humanitarian/civil society,1,12,0.01
+01-make_statement.csv,Make Statement,Red Cross liaison,diplomatic/international,1,12,0.01
+01-make_statement.csv,Make Statement,NGO director,humanitarian/civil society,1,12,0.01
+01-make_statement.csv,Make Statement,volunteer organizer,humanitarian/civil society,1,12,0.01
+01-make_statement.csv,Make Statement,community leader,humanitarian/civil society,1,12,0.01
+01-make_statement.csv,Make Statement,religious leader,humanitarian/civil society,1,12,0.01
+01-make_statement.csv,Make Statement,doctor,health,1,12,0.01
+01-make_statement.csv,Make Statement,nurse,health,1,12,0.01
+01-make_statement.csv,Make Statement,paramedic,health,1,12,0.01
+01-make_statement.csv,Make Statement,hospital director,health,1,12,0.01
+01-make_statement.csv,Make Statement,public health director,health,1,12,0.01
+01-make_statement.csv,Make Statement,teacher,media/education/culture,1,12,0.01
+01-make_statement.csv,Make Statement,school principal,media/education/culture,1,12,0.01
+01-make_statement.csv,Make Statement,university rector,media/education/culture,1,12,0.01
+01-make_statement.csv,Make Statement,student leader,media/education/culture,1,12,0.01
+01-make_statement.csv,Make Statement,investigative journalist,media/education/culture,1,12,0.01
+01-make_statement.csv,Make Statement,independent editor,media/education/culture,1,12,0.01
+01-make_statement.csv,Make Statement,state TV host,government/political,1,12,0.01
+01-make_statement.csv,Make Statement,media regulator,government/political,1,12,0.01
+01-make_statement.csv,Make Statement,fact-checker,other,1,12,0.01
+01-make_statement.csv,Make Statement,logistics manager,economy/infrastructure,1,12,0.01
+01-make_statement.csv,Make Statement,transport minister,government/political,1,12,0.01
+01-make_statement.csv,Make Statement,power-grid engineer,economy/infrastructure,1,12,0.01
+01-make_statement.csv,Make Statement,water utility manager,economy/infrastructure,1,12,0.01
+01-make_statement.csv,Make Statement,fire department chief,other,1,12,0.01
+01-make_statement.csv,Make Statement,rescue team leader,other,1,12,0.01
+01-make_statement.csv,Make Statement,environmental inspector,justice/legal,1,12,0.01
+02-appeal.csv,Appeal,government spokesperson,government/political,3,36,0.03
+02-appeal.csv,Appeal,president,government/political,2,24,0.02
+02-appeal.csv,Appeal,prime minister,government/political,2,24,0.02
+02-appeal.csv,Appeal,foreign minister,government/political,2,24,0.02
+02-appeal.csv,Appeal,ambassador,diplomatic/international,2,24,0.02
+02-appeal.csv,Appeal,peace negotiator,diplomatic/international,2,24,0.02
+02-appeal.csv,Appeal,parliament speaker,government/political,2,24,0.02
+02-appeal.csv,Appeal,member of parliament,government/political,2,24,0.02
+02-appeal.csv,Appeal,regional governor,government/political,2,24,0.02
+02-appeal.csv,Appeal,mayor,government/political,2,24,0.02
+02-appeal.csv,Appeal,local council chair,government/political,2,24,0.02
+02-appeal.csv,Appeal,UN representative,diplomatic/international,2,24,0.02
+02-appeal.csv,Appeal,OSCE observer,diplomatic/international,2,24,0.02
+02-appeal.csv,Appeal,international monitor,government/political,2,24,0.02
+02-appeal.csv,Appeal,human-rights investigator,justice/legal,2,24,0.02
+02-appeal.csv,Appeal,community ombudsman,government/political,2,24,0.02
+02-appeal.csv,Appeal,aid coordinator,humanitarian/civil society,2,24,0.02
+02-appeal.csv,Appeal,Red Cross liaison,diplomatic/international,2,24,0.02
+02-appeal.csv,Appeal,volunteer organizer,humanitarian/civil society,2,24,0.02
+02-appeal.csv,Appeal,refugee advocate,humanitarian/civil society,2,24,0.02
+02-appeal.csv,Appeal,social worker,economy/infrastructure,2,24,0.02
+02-appeal.csv,Appeal,child protection officer,military/security,2,24,0.02
+02-appeal.csv,Appeal,public health director,health,2,24,0.02
+02-appeal.csv,Appeal,hospital director,health,2,24,0.02
+02-appeal.csv,Appeal,doctor,health,2,24,0.02
+02-appeal.csv,Appeal,nurse,health,2,24,0.02
+02-appeal.csv,Appeal,paramedic,health,2,24,0.02
+02-appeal.csv,Appeal,pharmacist,health,2,24,0.02
+02-appeal.csv,Appeal,teacher,media/education/culture,2,24,0.02
+02-appeal.csv,Appeal,school principal,media/education/culture,2,24,0.02
+02-appeal.csv,Appeal,university rector,media/education/culture,2,24,0.02
+02-appeal.csv,Appeal,student leader,media/education/culture,2,24,0.02
+02-appeal.csv,Appeal,religious leader,humanitarian/civil society,2,24,0.02
+02-appeal.csv,Appeal,community leader,humanitarian/civil society,2,24,0.02
+02-appeal.csv,Appeal,investigative journalist,media/education/culture,2,24,0.02
+02-appeal.csv,Appeal,independent editor,media/education/culture,2,24,0.02
+02-appeal.csv,Appeal,fact-checker,other,2,24,0.02
+02-appeal.csv,Appeal,media regulator,government/political,2,24,0.02
+02-appeal.csv,Appeal,press secretary,government/political,2,24,0.02
+02-appeal.csv,Appeal,police chief,military/security,2,24,0.02
+02-appeal.csv,Appeal,border service chief,military/security,2,24,0.02
+02-appeal.csv,Appeal,customs officer,military/security,2,24,0.02
+02-appeal.csv,Appeal,checkpoint commander,military/security,2,24,0.02
+02-appeal.csv,Appeal,cybersecurity chief,economy/infrastructure,2,24,0.02
+02-appeal.csv,Appeal,NGO director,humanitarian/civil society,1,12,0.01
+02-appeal.csv,Appeal,telecom operator,economy/infrastructure,1,12,0.01
+02-appeal.csv,Appeal,national bank official,government/political,1,12,0.01
+02-appeal.csv,Appeal,finance minister,government/political,1,12,0.01
+02-appeal.csv,Appeal,anti-corruption officer,military/security,1,12,0.01
+02-appeal.csv,Appeal,municipal auditor,government/political,1,12,0.01
+02-appeal.csv,Appeal,public procurement officer,military/security,1,12,0.01
+02-appeal.csv,Appeal,housing commissioner,government/political,1,12,0.01
+02-appeal.csv,Appeal,shelter manager,humanitarian/civil society,1,12,0.01
+02-appeal.csv,Appeal,fire department chief,other,1,12,0.01
+02-appeal.csv,Appeal,rescue team leader,other,1,12,0.01
+03-cooperate.csv,Cooperate,president,government/political,2,24,0.02
+03-cooperate.csv,Cooperate,foreign minister,government/political,2,24,0.02
+03-cooperate.csv,Cooperate,defense minister,government/political,2,24,0.02
+03-cooperate.csv,Cooperate,government spokesperson,government/political,2,24,0.02
+03-cooperate.csv,Cooperate,housing commissioner,government/political,2,24,0.02
+03-cooperate.csv,Cooperate,Red Cross liaison,diplomatic/international,2,24,0.02
+03-cooperate.csv,Cooperate,human-rights investigator,justice/legal,2,24,0.02
+03-cooperate.csv,Cooperate,road police captain,military/security,2,24,0.02
+03-cooperate.csv,Cooperate,bank compliance officer,military/security,2,24,0.02
+03-cooperate.csv,Cooperate,municipal auditor,government/political,2,24,0.02
+03-cooperate.csv,Cooperate,child protection officer,military/security,2,24,0.02
+03-cooperate.csv,Cooperate,social worker,economy/infrastructure,2,24,0.02
+03-cooperate.csv,Cooperate,farmer cooperative head,economy/infrastructure,2,24,0.02
+03-cooperate.csv,Cooperate,peace negotiator,diplomatic/international,1,12,0.01
+03-cooperate.csv,Cooperate,UN representative,diplomatic/international,1,12,0.01
+03-cooperate.csv,Cooperate,OSCE observer,diplomatic/international,1,12,0.01
+03-cooperate.csv,Cooperate,ambassador,diplomatic/international,1,12,0.01
+03-cooperate.csv,Cooperate,regional governor,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,mayor,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,local council chair,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,police chief,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,border service chief,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,checkpoint commander,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,security service officer,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,military police officer,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,army commander,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,general staff officer,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,air defense officer,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,border guard patrol,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,aid coordinator,humanitarian/civil society,1,12,0.01
+03-cooperate.csv,Cooperate,NGO director,humanitarian/civil society,1,12,0.01
+03-cooperate.csv,Cooperate,volunteer organizer,humanitarian/civil society,1,12,0.01
+03-cooperate.csv,Cooperate,community leader,humanitarian/civil society,1,12,0.01
+03-cooperate.csv,Cooperate,community ombudsman,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,public defender,other,1,12,0.01
+03-cooperate.csv,Cooperate,prosecutor,justice/legal,1,12,0.01
+03-cooperate.csv,Cooperate,judge,justice/legal,1,12,0.01
+03-cooperate.csv,Cooperate,investigative journalist,media/education/culture,1,12,0.01
+03-cooperate.csv,Cooperate,independent editor,media/education/culture,1,12,0.01
+03-cooperate.csv,Cooperate,press secretary,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,telecom operator,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,cybersecurity chief,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,cyber volunteer coordinator,humanitarian/civil society,1,12,0.01
+03-cooperate.csv,Cooperate,national bank official,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,finance minister,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,anti-corruption officer,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,public procurement officer,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,shelter manager,humanitarian/civil society,1,12,0.01
+03-cooperate.csv,Cooperate,refugee advocate,humanitarian/civil society,1,12,0.01
+03-cooperate.csv,Cooperate,teacher,media/education/culture,1,12,0.01
+03-cooperate.csv,Cooperate,school principal,media/education/culture,1,12,0.01
+03-cooperate.csv,Cooperate,university rector,media/education/culture,1,12,0.01
+03-cooperate.csv,Cooperate,student leader,media/education/culture,1,12,0.01
+03-cooperate.csv,Cooperate,religious leader,humanitarian/civil society,1,12,0.01
+03-cooperate.csv,Cooperate,doctor,health,1,12,0.01
+03-cooperate.csv,Cooperate,hospital director,health,1,12,0.01
+03-cooperate.csv,Cooperate,public health director,health,1,12,0.01
+03-cooperate.csv,Cooperate,fire department chief,other,1,12,0.01
+03-cooperate.csv,Cooperate,rescue team leader,other,1,12,0.01
+03-cooperate.csv,Cooperate,emergency dispatcher,other,1,12,0.01
+03-cooperate.csv,Cooperate,power-grid engineer,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,energy minister,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,water utility manager,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,water-quality scientist,media/education/culture,1,12,0.01
+03-cooperate.csv,Cooperate,environmental inspector,justice/legal,1,12,0.01
+03-cooperate.csv,Cooperate,civil engineer,other,1,12,0.01
+03-cooperate.csv,Cooperate,construction foreman,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,logistics manager,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,warehouse supervisor,other,1,12,0.01
+03-cooperate.csv,Cooperate,public transport director,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,transport minister,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,port authority director,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,airport security chief,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,shipping company director,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,seaport security officer,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,food safety officer,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,agriculture minister,government/political,1,12,0.01
+03-cooperate.csv,Cooperate,cultural heritage director,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,museum curator,media/education/culture,1,12,0.01
+03-cooperate.csv,Cooperate,nurse,health,1,12,0.01
+03-cooperate.csv,Cooperate,factory manager,economy/infrastructure,1,12,0.01
+03-cooperate.csv,Cooperate,labor inspector,justice/legal,1,12,0.01
+03-cooperate.csv,Cooperate,public information officer,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,consumer protection officer,military/security,1,12,0.01
+03-cooperate.csv,Cooperate,telemedicine coordinator,humanitarian/civil society,1,12,0.01
+03-cooperate.csv,Cooperate,disaster response coordinator,humanitarian/civil society,1,12,0.01
+03-cooperate.csv,Cooperate,fire safety inspector,justice/legal,1,12,0.01
+04-consult.csv,Consult,interior minister,government/political,8,96,0.08
+04-consult.csv,Consult,regional governor,government/political,7,84,0.07
+04-consult.csv,Consult,defense minister,government/political,5,60,0.05
+04-consult.csv,Consult,army commander,military/security,5,60,0.05
+04-consult.csv,Consult,mayor,government/political,4,48,0.04
+04-consult.csv,Consult,border service chief,military/security,4,48,0.04
+04-consult.csv,Consult,local council chair,government/political,3,36,0.03
+04-consult.csv,Consult,prosecutor,justice/legal,3,36,0.03
+04-consult.csv,Consult,police chief,military/security,3,36,0.03
+04-consult.csv,Consult,security service officer,military/security,3,36,0.03
+04-consult.csv,Consult,military police officer,military/security,3,36,0.03
+04-consult.csv,Consult,president,government/political,2,24,0.02
+04-consult.csv,Consult,prime minister,government/political,2,24,0.02
+04-consult.csv,Consult,foreign minister,government/political,2,24,0.02
+04-consult.csv,Consult,parliament speaker,government/political,2,24,0.02
+04-consult.csv,Consult,member of parliament,government/political,2,24,0.02
+04-consult.csv,Consult,peace negotiator,diplomatic/international,2,24,0.02
+04-consult.csv,Consult,ambassador,diplomatic/international,2,24,0.02
+04-consult.csv,Consult,UN representative,diplomatic/international,2,24,0.02
+04-consult.csv,Consult,community ombudsman,government/political,2,24,0.02
+04-consult.csv,Consult,judge,justice/legal,2,24,0.02
+04-consult.csv,Consult,checkpoint commander,military/security,2,24,0.02
+04-consult.csv,Consult,general staff officer,military/security,2,24,0.02
+04-consult.csv,Consult,cybersecurity chief,economy/infrastructure,2,24,0.02
+04-consult.csv,Consult,finance minister,government/political,2,24,0.02
+04-consult.csv,Consult,anti-corruption officer,military/security,2,24,0.02
+04-consult.csv,Consult,public procurement officer,military/security,2,24,0.02
+04-consult.csv,Consult,shelter manager,humanitarian/civil society,2,24,0.02
+04-consult.csv,Consult,NGO director,humanitarian/civil society,2,24,0.02
+04-consult.csv,Consult,community leader,humanitarian/civil society,2,24,0.02
+04-consult.csv,Consult,public health director,health,2,24,0.02
+04-consult.csv,Consult,hospital director,health,2,24,0.02
+04-consult.csv,Consult,government spokesperson,government/political,2,24,0.02
+04-consult.csv,Consult,aid coordinator,humanitarian/civil society,2,24,0.02
+04-consult.csv,Consult,press secretary,government/political,1,12,0.01
+04-consult.csv,Consult,teacher,media/education/culture,1,12,0.01
+04-consult.csv,Consult,telecom operator,economy/infrastructure,1,12,0.01
+04-consult.csv,Consult,logistics manager,economy/infrastructure,1,12,0.01
+04-consult.csv,Consult,Red Cross liaison,diplomatic/international,1,12,0.01
+04-consult.csv,Consult,volunteer organizer,humanitarian/civil society,1,12,0.01
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,border service chief,military/security,4,48,0.04
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,humanitarian corridor coordinator,humanitarian/civil society,4,48,0.04
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,peace negotiator,diplomatic/international,3,36,0.03
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,national security adviser,government/political,3,36,0.03
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,special envoy,government/political,3,36,0.03
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,human-rights ombudsman,government/political,3,36,0.03
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,energy minister,government/political,3,36,0.03
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,disaster response coordinator,humanitarian/civil society,3,36,0.03
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,president,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,prime minister,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,foreign minister,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,defense minister,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,interior minister,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,government spokesperson,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,parliament speaker,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,member of parliament,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,ambassador,diplomatic/international,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,deputy foreign minister,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,chief of staff,other,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,UN representative,diplomatic/international,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,OSCE representative,diplomatic/international,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,international mediator,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,regional governor,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,mayor,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,local council chair,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,war-crimes liaison,diplomatic/international,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,aid coordinator,humanitarian/civil society,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,Red Cross liaison,diplomatic/international,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,trade minister,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,transport minister,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,cybersecurity chief,economy/infrastructure,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,public procurement oversight chair,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,customs chief,military/security,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,consular officer,military/security,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,diaspora liaison,diplomatic/international,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,parliament committee chair,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,international law adviser,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,treaty negotiator,diplomatic/international,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,ceasefire monitor,diplomatic/international,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,refugee policy director,humanitarian/civil society,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,public health director,health,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,education minister,government/political,2,24,0.02
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,press secretary,government/political,1,12,0.01
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,national bank official,government/political,1,12,0.01
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,finance minister,government/political,1,12,0.01
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,anti-corruption officer,military/security,1,12,0.01
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,environmental envoy,government/political,1,12,0.01
+05-engage_in_diplomatic_cooperation.csv,Engage in Diplomatic Cooperation,cultural exchange director,economy/infrastructure,1,12,0.01
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,aid coordinator,humanitarian/civil society,5,60,0.05
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,mayor,government/political,4,48,0.04
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,NGO director,humanitarian/civil society,4,48,0.04
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,public health director,health,4,48,0.04
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,disaster response coordinator,humanitarian/civil society,4,48,0.04
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,economy minister,government/political,3,36,0.03
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,energy minister,government/political,3,36,0.03
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,local council chair,government/political,3,36,0.03
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,border service chief,military/security,3,36,0.03
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,hospital director,health,3,36,0.03
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,power-grid engineer,economy/infrastructure,3,36,0.03
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,housing commissioner,government/political,3,36,0.03
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,government,other,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,president,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,prime minister,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,foreign minister,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,defense minister,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,finance minister,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,transport minister,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,parliament speaker,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,member of parliament,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,regional governor,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,national bank official,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,customs chief,military/security,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,trade agency head,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,investment minister,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,Red Cross liaison,diplomatic/international,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,volunteer organizer,humanitarian/civil society,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,community leader,humanitarian/civil society,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,university rector,media/education/culture,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,innovation agency head,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,telecom operator,economy/infrastructure,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,public procurement officer,military/security,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,shelter manager,humanitarian/civil society,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,logistics manager,economy/infrastructure,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,port authority director,government/political,2,24,0.02
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,research director,economy/infrastructure,1,12,0.01
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,cybersecurity chief,economy/infrastructure,1,12,0.01
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,water utility manager,economy/infrastructure,1,12,0.01
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,school principal,media/education/culture,1,12,0.01
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,airport security chief,economy/infrastructure,1,12,0.01
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,consumer protection officer,military/security,1,12,0.01
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,doctor,health,1,12,0.01
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,anti-corruption officer,military/security,1,12,0.01
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,railway dispatcher,economy/infrastructure,1,12,0.01
+06-engage_in_material_cooperation.csv,Engage in Material Cooperation,harbor master,other,1,12,0.01
+07-provide_aid.csv,Provide Aid,NGO director,humanitarian/civil society,6,72,0.06
+07-provide_aid.csv,Provide Aid,public health director,health,5,60,0.05
+07-provide_aid.csv,Provide Aid,refugee advocate,humanitarian/civil society,5,60,0.05
+07-provide_aid.csv,Provide Aid,volunteer organizer,humanitarian/civil society,4,48,0.04
+07-provide_aid.csv,Provide Aid,social worker,economy/infrastructure,4,48,0.04
+07-provide_aid.csv,Provide Aid,local council chair,government/political,3,36,0.03
+07-provide_aid.csv,Provide Aid,Red Cross liaison,diplomatic/international,3,36,0.03
+07-provide_aid.csv,Provide Aid,hospital director,health,3,36,0.03
+07-provide_aid.csv,Provide Aid,nurse,health,3,36,0.03
+07-provide_aid.csv,Provide Aid,public transport director,economy/infrastructure,3,36,0.03
+07-provide_aid.csv,Provide Aid,transport minister,government/political,3,36,0.03
+07-provide_aid.csv,Provide Aid,government,other,2,24,0.02
+07-provide_aid.csv,Provide Aid,president,government/political,2,24,0.02
+07-provide_aid.csv,Provide Aid,prime minister,government/political,2,24,0.02
+07-provide_aid.csv,Provide Aid,foreign minister,government/political,2,24,0.02
+07-provide_aid.csv,Provide Aid,defense minister,government/political,2,24,0.02
+07-provide_aid.csv,Provide Aid,interior minister,government/political,2,24,0.02
+07-provide_aid.csv,Provide Aid,regional governor,government/political,2,24,0.02
+07-provide_aid.csv,Provide Aid,mayor,government/political,2,24,0.02
+07-provide_aid.csv,Provide Aid,aid coordinator,humanitarian/civil society,2,24,0.02
+07-provide_aid.csv,Provide Aid,community leader,humanitarian/civil society,2,24,0.02
+07-provide_aid.csv,Provide Aid,religious leader,humanitarian/civil society,2,24,0.02
+07-provide_aid.csv,Provide Aid,child protection officer,military/security,2,24,0.02
+07-provide_aid.csv,Provide Aid,doctor,health,2,24,0.02
+07-provide_aid.csv,Provide Aid,paramedic,health,2,24,0.02
+07-provide_aid.csv,Provide Aid,rescue team leader,other,2,24,0.02
+07-provide_aid.csv,Provide Aid,university rector,media/education/culture,2,24,0.02
+07-provide_aid.csv,Provide Aid,student leader,media/education/culture,2,24,0.02
+07-provide_aid.csv,Provide Aid,warehouse supervisor,other,2,24,0.02
+07-provide_aid.csv,Provide Aid,railway dispatcher,economy/infrastructure,2,24,0.02
+07-provide_aid.csv,Provide Aid,port authority director,government/political,2,24,0.02
+07-provide_aid.csv,Provide Aid,police chief,military/security,2,24,0.02
+07-provide_aid.csv,Provide Aid,fire department chief,other,2,24,0.02
+07-provide_aid.csv,Provide Aid,emergency dispatcher,other,2,24,0.02
+07-provide_aid.csv,Provide Aid,power-grid engineer,economy/infrastructure,2,24,0.02
+07-provide_aid.csv,Provide Aid,water utility manager,economy/infrastructure,2,24,0.02
+07-provide_aid.csv,Provide Aid,school principal,media/education/culture,2,24,0.02
+07-provide_aid.csv,Provide Aid,harbor master,other,1,12,0.01
+07-provide_aid.csv,Provide Aid,airport security chief,economy/infrastructure,1,12,0.01
+07-provide_aid.csv,Provide Aid,border service chief,military/security,1,12,0.01
+07-provide_aid.csv,Provide Aid,pharmacist,health,1,12,0.01
+07-provide_aid.csv,Provide Aid,logistics manager,economy/infrastructure,1,12,0.01
+07-provide_aid.csv,Provide Aid,consumer protection officer,military/security,1,12,0.01
+08-yield.csv,Yield,interior minister,government/political,7,84,0.07
+08-yield.csv,Yield,defense minister,government/political,6,72,0.06
+08-yield.csv,Yield,public health director,health,6,72,0.06
+08-yield.csv,Yield,police chief,military/security,5,60,0.05
+08-yield.csv,Yield,checkpoint commander,military/security,5,60,0.05
+08-yield.csv,Yield,security service officer,military/security,5,60,0.05
+08-yield.csv,Yield,regional governor,government/political,4,48,0.04
+08-yield.csv,Yield,general staff officer,military/security,4,48,0.04
+08-yield.csv,Yield,mayor,government/political,3,36,0.03
+08-yield.csv,Yield,aid coordinator,humanitarian/civil society,3,36,0.03
+08-yield.csv,Yield,army commander,military/security,3,36,0.03
+08-yield.csv,Yield,housing commissioner,government/political,3,36,0.03
+08-yield.csv,Yield,president,government/political,2,24,0.02
+08-yield.csv,Yield,prime minister,government/political,2,24,0.02
+08-yield.csv,Yield,peace negotiator,diplomatic/international,2,24,0.02
+08-yield.csv,Yield,ambassador,diplomatic/international,2,24,0.02
+08-yield.csv,Yield,local council chair,government/political,2,24,0.02
+08-yield.csv,Yield,finance minister,government/political,2,24,0.02
+08-yield.csv,Yield,hospital director,health,2,24,0.02
+08-yield.csv,Yield,Red Cross liaison,diplomatic/international,2,24,0.02
+08-yield.csv,Yield,UN representative,diplomatic/international,2,24,0.02
+08-yield.csv,Yield,municipal auditor,government/political,2,24,0.02
+08-yield.csv,Yield,shelter manager,humanitarian/civil society,2,24,0.02
+08-yield.csv,Yield,minister of justice,government/political,2,24,0.02
+08-yield.csv,Yield,university rector,media/education/culture,2,24,0.02
+08-yield.csv,Yield,border service chief,military/security,2,24,0.02
+08-yield.csv,Yield,NGO director,humanitarian/civil society,2,24,0.02
+08-yield.csv,Yield,transport minister,government/political,2,24,0.02
+08-yield.csv,Yield,military police officer,military/security,2,24,0.02
+08-yield.csv,Yield,foreign minister,government/political,1,12,0.01
+08-yield.csv,Yield,energy minister,government/political,1,12,0.01
+08-yield.csv,Yield,OSCE observer,diplomatic/international,1,12,0.01
+08-yield.csv,Yield,child protection officer,military/security,1,12,0.01
+08-yield.csv,Yield,water utility manager,economy/infrastructure,1,12,0.01
+08-yield.csv,Yield,anti-corruption officer,military/security,1,12,0.01
+08-yield.csv,Yield,social worker,economy/infrastructure,1,12,0.01
+08-yield.csv,Yield,community ombudsman,government/political,1,12,0.01
+08-yield.csv,Yield,public procurement officer,military/security,1,12,0.01
+08-yield.csv,Yield,school principal,media/education/culture,1,12,0.01
+08-yield.csv,Yield,community leader,humanitarian/civil society,1,12,0.01
+08-yield.csv,Yield,religious leader,humanitarian/civil society,1,12,0.01
+09-investigate.csv,Investigate,human-rights investigator,justice/legal,9,108,0.09
+09-investigate.csv,Investigate,police detective,military/security,6,72,0.06
+09-investigate.csv,Investigate,prosecutor,justice/legal,4,48,0.04
+09-investigate.csv,Investigate,community ombudsman,government/political,4,48,0.04
+09-investigate.csv,Investigate,security service officer,military/security,4,48,0.04
+09-investigate.csv,Investigate,border service inspector,military/security,4,48,0.04
+09-investigate.csv,Investigate,public defender,other,3,36,0.03
+09-investigate.csv,Investigate,municipal auditor,government/political,3,36,0.03
+09-investigate.csv,Investigate,public procurement officer,military/security,3,36,0.03
+09-investigate.csv,Investigate,customs officer,military/security,3,36,0.03
+09-investigate.csv,Investigate,investigative journalist,media/education/culture,3,36,0.03
+09-investigate.csv,Investigate,UN monitor,diplomatic/international,3,36,0.03
+09-investigate.csv,Investigate,fact-checker,other,3,36,0.03
+09-investigate.csv,Investigate,independent editor,media/education/culture,3,36,0.03
+09-investigate.csv,Investigate,regional prosecutor,government/political,2,24,0.02
+09-investigate.csv,Investigate,judge,justice/legal,2,24,0.02
+09-investigate.csv,Investigate,police chief,military/security,2,24,0.02
+09-investigate.csv,Investigate,anti-corruption officer,military/security,2,24,0.02
+09-investigate.csv,Investigate,child protection officer,military/security,2,24,0.02
+09-investigate.csv,Investigate,cybersecurity analyst,economy/infrastructure,2,24,0.02
+09-investigate.csv,Investigate,checkpoint supervisor,military/security,2,24,0.02
+09-investigate.csv,Investigate,telecom compliance officer,military/security,2,24,0.02
+09-investigate.csv,Investigate,OSCE observer,diplomatic/international,2,24,0.02
+09-investigate.csv,Investigate,international investigator,government/political,2,24,0.02
+09-investigate.csv,Investigate,NGO investigator,justice/legal,2,24,0.02
+09-investigate.csv,Investigate,parliament oversight chair,government/political,2,24,0.02
+09-investigate.csv,Investigate,member of parliament,government/political,2,24,0.02
+09-investigate.csv,Investigate,mayor,government/political,2,24,0.02
+09-investigate.csv,Investigate,regional governor,government/political,2,24,0.02
+09-investigate.csv,Investigate,minister of justice,government/political,2,24,0.02
+09-investigate.csv,Investigate,interior minister,government/political,2,24,0.02
+09-investigate.csv,Investigate,defense inspector general,military/security,2,24,0.02
+09-investigate.csv,Investigate,cybersecurity chief,economy/infrastructure,2,24,0.02
+09-investigate.csv,Investigate,nurse,health,1,12,0.01
+09-investigate.csv,Investigate,aid coordinator,humanitarian/civil society,1,12,0.01
+09-investigate.csv,Investigate,university ethics officer,military/security,1,12,0.01
+09-investigate.csv,Investigate,water-quality scientist,media/education/culture,1,12,0.01
+09-investigate.csv,Investigate,hospital director,health,1,12,0.01
+09-investigate.csv,Investigate,consumer protection officer,military/security,1,12,0.01
+09-investigate.csv,Investigate,public health director,health,1,12,0.01
+10-demand.csv,Demand,president,government/political,1,12,0.01
+10-demand.csv,Demand,foreign minister,government/political,1,12,0.01
+10-demand.csv,Demand,defense minister,government/political,1,12,0.01
+10-demand.csv,Demand,government spokesperson,government/political,1,12,0.01
+10-demand.csv,Demand,peace negotiator,diplomatic/international,1,12,0.01
+10-demand.csv,Demand,UN representative,diplomatic/international,1,12,0.01
+10-demand.csv,Demand,OSCE observer,diplomatic/international,1,12,0.01
+10-demand.csv,Demand,regional governor,government/political,1,12,0.01
+10-demand.csv,Demand,mayor,government/political,1,12,0.01
+10-demand.csv,Demand,parliament speaker,government/political,1,12,0.01
+10-demand.csv,Demand,police chief,military/security,1,12,0.01
+10-demand.csv,Demand,prosecutor,justice/legal,1,12,0.01
+10-demand.csv,Demand,judge,justice/legal,1,12,0.01
+10-demand.csv,Demand,human-rights investigator,justice/legal,1,12,0.01
+10-demand.csv,Demand,aid coordinator,humanitarian/civil society,1,12,0.01
+10-demand.csv,Demand,Red Cross liaison,diplomatic/international,1,12,0.01
+10-demand.csv,Demand,hospital director,health,1,12,0.01
+10-demand.csv,Demand,public health director,health,1,12,0.01
+10-demand.csv,Demand,doctor,health,1,12,0.01
+10-demand.csv,Demand,nurse,health,1,12,0.01
+10-demand.csv,Demand,paramedic,health,1,12,0.01
+10-demand.csv,Demand,pharmacist,health,1,12,0.01
+10-demand.csv,Demand,fire department chief,other,1,12,0.01
+10-demand.csv,Demand,rescue team leader,other,1,12,0.01
+10-demand.csv,Demand,emergency dispatcher,other,1,12,0.01
+10-demand.csv,Demand,border service chief,military/security,1,12,0.01
+10-demand.csv,Demand,border guard patrol,military/security,1,12,0.01
+10-demand.csv,Demand,customs officer,military/security,1,12,0.01
+10-demand.csv,Demand,checkpoint commander,military/security,1,12,0.01
+10-demand.csv,Demand,security service officer,military/security,1,12,0.01
+10-demand.csv,Demand,cybersecurity chief,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,telecom operator,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,tech company CEO,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,cyber volunteer coordinator,humanitarian/civil society,1,12,0.01
+10-demand.csv,Demand,intelligence analyst,military/security,1,12,0.01
+10-demand.csv,Demand,bank compliance officer,military/security,1,12,0.01
+10-demand.csv,Demand,national bank official,government/political,1,12,0.01
+10-demand.csv,Demand,finance minister,government/political,1,12,0.01
+10-demand.csv,Demand,anti-corruption officer,military/security,1,12,0.01
+10-demand.csv,Demand,municipal auditor,government/political,1,12,0.01
+10-demand.csv,Demand,public procurement officer,military/security,1,12,0.01
+10-demand.csv,Demand,housing commissioner,government/political,1,12,0.01
+10-demand.csv,Demand,shelter manager,humanitarian/civil society,1,12,0.01
+10-demand.csv,Demand,child protection officer,military/security,1,12,0.01
+10-demand.csv,Demand,social worker,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,refugee advocate,humanitarian/civil society,1,12,0.01
+10-demand.csv,Demand,volunteer organizer,humanitarian/civil society,1,12,0.01
+10-demand.csv,Demand,community leader,humanitarian/civil society,1,12,0.01
+10-demand.csv,Demand,religious leader,humanitarian/civil society,1,12,0.01
+10-demand.csv,Demand,community ombudsman,government/political,1,12,0.01
+10-demand.csv,Demand,media regulator,government/political,1,12,0.01
+10-demand.csv,Demand,press secretary,government/political,1,12,0.01
+10-demand.csv,Demand,state TV host,government/political,1,12,0.01
+10-demand.csv,Demand,independent editor,media/education/culture,1,12,0.01
+10-demand.csv,Demand,investigative journalist,media/education/culture,1,12,0.01
+10-demand.csv,Demand,teacher,media/education/culture,1,12,0.01
+10-demand.csv,Demand,school principal,media/education/culture,1,12,0.01
+10-demand.csv,Demand,university rector,media/education/culture,1,12,0.01
+10-demand.csv,Demand,student leader,media/education/culture,1,12,0.01
+10-demand.csv,Demand,labor inspector,justice/legal,1,12,0.01
+10-demand.csv,Demand,factory manager,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,warehouse supervisor,other,1,12,0.01
+10-demand.csv,Demand,logistics manager,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,railway dispatcher,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,railway union leader,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,rail safety inspector,justice/legal,1,12,0.01
+10-demand.csv,Demand,public transport director,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,road police captain,military/security,1,12,0.01
+10-demand.csv,Demand,transport minister,government/political,1,12,0.01
+10-demand.csv,Demand,airport security chief,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,port authority director,government/political,1,12,0.01
+10-demand.csv,Demand,harbor master,other,1,12,0.01
+10-demand.csv,Demand,port customs supervisor,military/security,1,12,0.01
+10-demand.csv,Demand,shipping company director,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,seaport security officer,military/security,1,12,0.01
+10-demand.csv,Demand,energy minister,government/political,1,12,0.01
+10-demand.csv,Demand,power-grid engineer,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,water utility manager,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,water-quality scientist,media/education/culture,1,12,0.01
+10-demand.csv,Demand,environmental inspector,justice/legal,1,12,0.01
+10-demand.csv,Demand,civil engineer,other,1,12,0.01
+10-demand.csv,Demand,construction foreman,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,municipal planner,government/political,1,12,0.01
+10-demand.csv,Demand,disaster response coordinator,humanitarian/civil society,1,12,0.01
+10-demand.csv,Demand,fire safety inspector,justice/legal,1,12,0.01
+10-demand.csv,Demand,food safety officer,military/security,1,12,0.01
+10-demand.csv,Demand,agriculture minister,government/political,1,12,0.01
+10-demand.csv,Demand,farmer cooperative head,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,cultural heritage director,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,sports federation head,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,international monitor,government/political,1,12,0.01
+10-demand.csv,Demand,NGO director,humanitarian/civil society,1,12,0.01
+10-demand.csv,Demand,public defender,other,1,12,0.01
+10-demand.csv,Demand,court clerk,government/political,1,12,0.01
+10-demand.csv,Demand,consumer protection officer,military/security,1,12,0.01
+10-demand.csv,Demand,transit police chief,military/security,1,12,0.01
+10-demand.csv,Demand,library director,economy/infrastructure,1,12,0.01
+10-demand.csv,Demand,public information officer,military/security,1,12,0.01
+10-demand.csv,Demand,health minister,government/political,1,12,0.01
+10-demand.csv,Demand,detention center director,economy/infrastructure,1,12,0.01
+11-approve.csv,Approve,president,government/political,2,24,0.02
+11-approve.csv,Approve,prime minister,government/political,2,24,0.02
+11-approve.csv,Approve,foreign minister,government/political,2,24,0.02
+11-approve.csv,Approve,defense minister,government/political,2,24,0.02
+11-approve.csv,Approve,interior minister,government/political,2,24,0.02
+11-approve.csv,Approve,government spokesperson,government/political,2,24,0.02
+11-approve.csv,Approve,press secretary,government/political,2,24,0.02
+11-approve.csv,Approve,parliament speaker,government/political,2,24,0.02
+11-approve.csv,Approve,member of parliament,government/political,2,24,0.02
+11-approve.csv,Approve,regional governor,government/political,2,24,0.02
+11-approve.csv,Approve,mayor,government/political,2,24,0.02
+11-approve.csv,Approve,local council chair,government/political,2,24,0.02
+11-approve.csv,Approve,peace negotiator,diplomatic/international,2,24,0.02
+11-approve.csv,Approve,ambassador,diplomatic/international,2,24,0.02
+11-approve.csv,Approve,UN representative,diplomatic/international,2,24,0.02
+11-approve.csv,Approve,OSCE observer,diplomatic/international,2,24,0.02
+11-approve.csv,Approve,international monitor,government/political,2,24,0.02
+11-approve.csv,Approve,human-rights investigator,justice/legal,2,24,0.02
+11-approve.csv,Approve,community ombudsman,government/political,2,24,0.02
+11-approve.csv,Approve,war-crimes prosecutor,justice/legal,2,24,0.02
+11-approve.csv,Approve,judge,justice/legal,2,24,0.02
+11-approve.csv,Approve,public defender,other,2,24,0.02
+11-approve.csv,Approve,police chief,military/security,2,24,0.02
+11-approve.csv,Approve,border service chief,military/security,2,24,0.02
+11-approve.csv,Approve,checkpoint commander,military/security,2,24,0.02
+11-approve.csv,Approve,security service officer,military/security,2,24,0.02
+11-approve.csv,Approve,military police officer,military/security,2,24,0.02
+11-approve.csv,Approve,army commander,military/security,2,24,0.02
+11-approve.csv,Approve,general staff officer,military/security,2,24,0.02
+11-approve.csv,Approve,air defense officer,military/security,2,24,0.02
+11-approve.csv,Approve,cybersecurity chief,economy/infrastructure,2,24,0.02
+11-approve.csv,Approve,telecom operator,economy/infrastructure,2,24,0.02
+11-approve.csv,Approve,national bank official,government/political,2,24,0.02
+11-approve.csv,Approve,finance minister,government/political,2,24,0.02
+11-approve.csv,Approve,anti-corruption officer,military/security,2,24,0.02
+11-approve.csv,Approve,municipal auditor,government/political,2,24,0.02
+11-approve.csv,Approve,public procurement officer,military/security,2,24,0.02
+11-approve.csv,Approve,housing commissioner,government/political,2,24,0.02
+11-approve.csv,Approve,shelter manager,humanitarian/civil society,2,24,0.02
+11-approve.csv,Approve,aid coordinator,humanitarian/civil society,2,24,0.02
+11-approve.csv,Approve,Red Cross liaison,diplomatic/international,2,24,0.02
+11-approve.csv,Approve,NGO director,humanitarian/civil society,2,24,0.02
+11-approve.csv,Approve,volunteer organizer,humanitarian/civil society,2,24,0.02
+11-approve.csv,Approve,community leader,humanitarian/civil society,2,24,0.02
+11-approve.csv,Approve,religious leader,humanitarian/civil society,2,24,0.02
+11-approve.csv,Approve,public health director,health,1,12,0.01
+11-approve.csv,Approve,hospital director,health,1,12,0.01
+11-approve.csv,Approve,doctor,health,1,12,0.01
+11-approve.csv,Approve,nurse,health,1,12,0.01
+11-approve.csv,Approve,paramedic,health,1,12,0.01
+11-approve.csv,Approve,teacher,media/education/culture,1,12,0.01
+11-approve.csv,Approve,school principal,media/education/culture,1,12,0.01
+11-approve.csv,Approve,university rector,media/education/culture,1,12,0.01
+11-approve.csv,Approve,student leader,media/education/culture,1,12,0.01
+11-approve.csv,Approve,logistics manager,economy/infrastructure,1,12,0.01
+11-disapprove.csv,Disapprove,president,government/political,2,24,0.02
+11-disapprove.csv,Disapprove,foreign minister,government/political,2,24,0.02
+11-disapprove.csv,Disapprove,defense minister,government/political,2,24,0.02
+11-disapprove.csv,Disapprove,government spokesperson,government/political,2,24,0.02
+11-disapprove.csv,Disapprove,parliament speaker,government/political,2,24,0.02
+11-disapprove.csv,Disapprove,member of parliament,government/political,2,24,0.02
+11-disapprove.csv,Disapprove,mayor,government/political,2,24,0.02
+11-disapprove.csv,Disapprove,regional governor,government/political,2,24,0.02
+11-disapprove.csv,Disapprove,local council chair,government/political,2,24,0.02
+11-disapprove.csv,Disapprove,peace negotiator,diplomatic/international,2,24,0.02
+11-disapprove.csv,Disapprove,UN representative,diplomatic/international,2,24,0.02
+11-disapprove.csv,Disapprove,OSCE observer,diplomatic/international,2,24,0.02
+11-disapprove.csv,Disapprove,ambassador,diplomatic/international,2,24,0.02
+11-disapprove.csv,Disapprove,human-rights investigator,justice/legal,2,24,0.02
+11-disapprove.csv,Disapprove,community ombudsman,government/political,2,24,0.02
+11-disapprove.csv,Disapprove,prosecutor,justice/legal,2,24,0.02
+11-disapprove.csv,Disapprove,judge,justice/legal,2,24,0.02
+11-disapprove.csv,Disapprove,public defender,other,2,24,0.02
+11-disapprove.csv,Disapprove,police chief,military/security,2,24,0.02
+11-disapprove.csv,Disapprove,police detective,military/security,2,24,0.02
+11-disapprove.csv,Disapprove,border service chief,military/security,2,24,0.02
+11-disapprove.csv,Disapprove,checkpoint commander,military/security,2,24,0.02
+11-disapprove.csv,Disapprove,security service officer,military/security,2,24,0.02
+11-disapprove.csv,Disapprove,military police officer,military/security,2,24,0.02
+11-disapprove.csv,Disapprove,army commander,military/security,2,24,0.02
+11-disapprove.csv,Disapprove,general staff officer,military/security,2,24,0.02
+11-disapprove.csv,Disapprove,drone unit operator,military/security,2,24,0.02
+11-disapprove.csv,Disapprove,air defense officer,military/security,2,24,0.02
+11-disapprove.csv,Disapprove,cybersecurity chief,economy/infrastructure,2,24,0.02
+11-disapprove.csv,Disapprove,telecom operator,economy/infrastructure,2,24,0.02
+11-disapprove.csv,Disapprove,bank compliance officer,military/security,1,12,0.01
+11-disapprove.csv,Disapprove,national bank official,government/political,1,12,0.01
+11-disapprove.csv,Disapprove,finance minister,government/political,1,12,0.01
+11-disapprove.csv,Disapprove,anti-corruption officer,military/security,1,12,0.01
+11-disapprove.csv,Disapprove,municipal auditor,government/political,1,12,0.01
+11-disapprove.csv,Disapprove,public procurement officer,military/security,1,12,0.01
+11-disapprove.csv,Disapprove,housing commissioner,government/political,1,12,0.01
+11-disapprove.csv,Disapprove,shelter manager,humanitarian/civil society,1,12,0.01
+11-disapprove.csv,Disapprove,aid coordinator,humanitarian/civil society,1,12,0.01
+11-disapprove.csv,Disapprove,Red Cross liaison,diplomatic/international,1,12,0.01
+11-disapprove.csv,Disapprove,NGO director,humanitarian/civil society,1,12,0.01
+11-disapprove.csv,Disapprove,volunteer organizer,humanitarian/civil society,1,12,0.01
+11-disapprove.csv,Disapprove,community leader,humanitarian/civil society,1,12,0.01
+11-disapprove.csv,Disapprove,religious leader,humanitarian/civil society,1,12,0.01
+11-disapprove.csv,Disapprove,investigative journalist,media/education/culture,1,12,0.01
+11-disapprove.csv,Disapprove,independent editor,media/education/culture,1,12,0.01
+11-disapprove.csv,Disapprove,state TV host,government/political,1,12,0.01
+11-disapprove.csv,Disapprove,media regulator,government/political,1,12,0.01
+11-disapprove.csv,Disapprove,teacher,media/education/culture,1,12,0.01
+11-disapprove.csv,Disapprove,school principal,media/education/culture,1,12,0.01
+11-disapprove.csv,Disapprove,university rector,media/education/culture,1,12,0.01
+11-disapprove.csv,Disapprove,student leader,media/education/culture,1,12,0.01
+11-disapprove.csv,Disapprove,doctor,health,1,12,0.01
+11-disapprove.csv,Disapprove,nurse,health,1,12,0.01
+11-disapprove.csv,Disapprove,paramedic,health,1,12,0.01
+11-disapprove.csv,Disapprove,hospital director,health,1,12,0.01
+11-disapprove.csv,Disapprove,public health director,health,1,12,0.01
+11-disapprove.csv,Disapprove,fire department chief,other,1,12,0.01
+11-disapprove.csv,Disapprove,rescue team leader,other,1,12,0.01
+11-disapprove.csv,Disapprove,emergency dispatcher,other,1,12,0.01
+11-disapprove.csv,Disapprove,power-grid engineer,economy/infrastructure,1,12,0.01
+11-disapprove.csv,Disapprove,water utility manager,economy/infrastructure,1,12,0.01
+11-disapprove.csv,Disapprove,environmental inspector,justice/legal,1,12,0.01
+11-disapprove.csv,Disapprove,food safety officer,military/security,1,12,0.01
+11-disapprove.csv,Disapprove,labor inspector,justice/legal,1,12,0.01
+11-disapprove.csv,Disapprove,logistics manager,economy/infrastructure,1,12,0.01
+11-disapprove.csv,Disapprove,railway dispatcher,economy/infrastructure,1,12,0.01
+11-disapprove.csv,Disapprove,transport minister,government/political,1,12,0.01
+11-disapprove.csv,Disapprove,road police captain,military/security,1,12,0.01
+11-disapprove.csv,Disapprove,port authority director,government/political,1,12,0.01
+112-accuse.csv,Accuse,regional governor,government/political,3,36,0.03
+112-accuse.csv,Accuse,president,government/political,2,24,0.02
+112-accuse.csv,Accuse,prime minister,government/political,2,24,0.02
+112-accuse.csv,Accuse,foreign minister,government/political,2,24,0.02
+112-accuse.csv,Accuse,defense minister,government/political,2,24,0.02
+112-accuse.csv,Accuse,interior minister,government/political,2,24,0.02
+112-accuse.csv,Accuse,government spokesperson,government/political,2,24,0.02
+112-accuse.csv,Accuse,press secretary,government/political,2,24,0.02
+112-accuse.csv,Accuse,parliament speaker,government/political,2,24,0.02
+112-accuse.csv,Accuse,member of parliament,government/political,2,24,0.02
+112-accuse.csv,Accuse,mayor,government/political,2,24,0.02
+112-accuse.csv,Accuse,local council chair,government/political,2,24,0.02
+112-accuse.csv,Accuse,peace negotiator,diplomatic/international,2,24,0.02
+112-accuse.csv,Accuse,ambassador,diplomatic/international,2,24,0.02
+112-accuse.csv,Accuse,UN representative,diplomatic/international,2,24,0.02
+112-accuse.csv,Accuse,OSCE observer,diplomatic/international,2,24,0.02
+112-accuse.csv,Accuse,hospital director,health,2,24,0.02
+112-accuse.csv,Accuse,human-rights investigator,justice/legal,2,24,0.02
+112-accuse.csv,Accuse,community ombudsman,government/political,2,24,0.02
+112-accuse.csv,Accuse,war-crimes prosecutor,justice/legal,2,24,0.02
+112-accuse.csv,Accuse,regional prosecutor,government/political,2,24,0.02
+112-accuse.csv,Accuse,judge,justice/legal,2,24,0.02
+112-accuse.csv,Accuse,public defender,other,2,24,0.02
+112-accuse.csv,Accuse,police chief,military/security,2,24,0.02
+112-accuse.csv,Accuse,police detective,military/security,2,24,0.02
+112-accuse.csv,Accuse,border service chief,military/security,2,24,0.02
+112-accuse.csv,Accuse,checkpoint commander,military/security,2,24,0.02
+112-accuse.csv,Accuse,security service officer,military/security,2,24,0.02
+112-accuse.csv,Accuse,military police officer,military/security,2,24,0.02
+112-accuse.csv,Accuse,army commander,military/security,2,24,0.02
+112-accuse.csv,Accuse,general staff officer,military/security,2,24,0.02
+112-accuse.csv,Accuse,air defense officer,military/security,2,24,0.02
+112-accuse.csv,Accuse,drone unit operator,military/security,2,24,0.02
+112-accuse.csv,Accuse,cybersecurity chief,economy/infrastructure,2,24,0.02
+112-accuse.csv,Accuse,public health director,health,2,24,0.02
+112-accuse.csv,Accuse,doctor,health,2,24,0.02
+112-accuse.csv,Accuse,customs officer,military/security,1,12,0.01
+112-accuse.csv,Accuse,telecom operator,economy/infrastructure,1,12,0.01
+112-accuse.csv,Accuse,finance minister,government/political,1,12,0.01
+112-accuse.csv,Accuse,anti-corruption officer,military/security,1,12,0.01
+112-accuse.csv,Accuse,municipal auditor,government/political,1,12,0.01
+112-accuse.csv,Accuse,public procurement officer,military/security,1,12,0.01
+112-accuse.csv,Accuse,housing commissioner,government/political,1,12,0.01
+112-accuse.csv,Accuse,shelter manager,humanitarian/civil society,1,12,0.01
+112-accuse.csv,Accuse,aid coordinator,humanitarian/civil society,1,12,0.01
+112-accuse.csv,Accuse,Red Cross liaison,diplomatic/international,1,12,0.01
+112-accuse.csv,Accuse,NGO director,humanitarian/civil society,1,12,0.01
+112-accuse.csv,Accuse,volunteer organizer,humanitarian/civil society,1,12,0.01
+112-accuse.csv,Accuse,community leader,humanitarian/civil society,1,12,0.01
+112-accuse.csv,Accuse,religious leader,humanitarian/civil society,1,12,0.01
+112-accuse.csv,Accuse,nurse,health,1,12,0.01
+112-accuse.csv,Accuse,paramedic,health,1,12,0.01
+112-accuse.csv,Accuse,teacher,media/education/culture,1,12,0.01
+112-accuse.csv,Accuse,school principal,media/education/culture,1,12,0.01
+112-accuse.csv,Accuse,student leader,media/education/culture,1,12,0.01
+112-accuse.csv,Accuse,investigative journalist,media/education/culture,1,12,0.01
+112-accuse.csv,Accuse,independent editor,media/education/culture,1,12,0.01
+112-accuse.csv,Accuse,fact-checker,other,1,12,0.01
+112-accuse.csv,Accuse,media regulator,government/political,1,12,0.01
+112-accuse.csv,Accuse,logistics manager,economy/infrastructure,1,12,0.01
+112-accuse.csv,Accuse,transport minister,government/political,1,12,0.01
+112-accuse.csv,Accuse,power-grid engineer,economy/infrastructure,1,12,0.01
+112-accuse.csv,Accuse,international monitor,government/political,1,12,0.01
+12-reject.csv,Reject,mayor,government/political,8,96,0.08
+12-reject.csv,Reject,regional governor,government/political,7,84,0.07
+12-reject.csv,Reject,police chief,military/security,6,72,0.06
+12-reject.csv,Reject,defense minister,government/political,4,48,0.04
+12-reject.csv,Reject,prosecutor,justice/legal,4,48,0.04
+12-reject.csv,Reject,public health director,health,4,48,0.04
+12-reject.csv,Reject,security service officer,military/security,4,48,0.04
+12-reject.csv,Reject,military police officer,military/security,4,48,0.04
+12-reject.csv,Reject,army commander,military/security,4,48,0.04
+12-reject.csv,Reject,foreign minister,government/political,3,36,0.03
+12-reject.csv,Reject,government spokesperson,government/political,3,36,0.03
+12-reject.csv,Reject,parliament speaker,government/political,3,36,0.03
+12-reject.csv,Reject,member of parliament,government/political,3,36,0.03
+12-reject.csv,Reject,judge,justice/legal,3,36,0.03
+12-reject.csv,Reject,checkpoint commander,military/security,3,36,0.03
+12-reject.csv,Reject,transport minister,government/political,3,36,0.03
+12-reject.csv,Reject,president,government/political,2,24,0.02
+12-reject.csv,Reject,peace negotiator,diplomatic/international,2,24,0.02
+12-reject.csv,Reject,local council chair,government/political,2,24,0.02
+12-reject.csv,Reject,community ombudsman,government/political,2,24,0.02
+12-reject.csv,Reject,aid coordinator,humanitarian/civil society,2,24,0.02
+12-reject.csv,Reject,NGO director,humanitarian/civil society,2,24,0.02
+12-reject.csv,Reject,press secretary,government/political,2,24,0.02
+12-reject.csv,Reject,general staff officer,military/security,2,24,0.02
+12-reject.csv,Reject,finance minister,government/political,2,24,0.02
+12-reject.csv,Reject,Red Cross liaison,diplomatic/international,2,24,0.02
+12-reject.csv,Reject,border service chief,military/security,2,24,0.02
+12-reject.csv,Reject,public defender,other,1,12,0.01
+12-reject.csv,Reject,human-rights investigator,justice/legal,1,12,0.01
+12-reject.csv,Reject,UN representative,diplomatic/international,1,12,0.01
+12-reject.csv,Reject,OSCE observer,diplomatic/international,1,12,0.01
+12-reject.csv,Reject,university rector,media/education/culture,1,12,0.01
+12-reject.csv,Reject,railway dispatcher,economy/infrastructure,1,12,0.01
+12-reject.csv,Reject,hospital director,health,1,12,0.01
+12-reject.csv,Reject,media regulator,government/political,1,12,0.01
+12-reject.csv,Reject,drone unit operator,military/security,1,12,0.01
+12-reject.csv,Reject,power-grid engineer,economy/infrastructure,1,12,0.01
+12-reject.csv,Reject,municipal auditor,government/political,1,12,0.01
+12-reject.csv,Reject,anti-corruption officer,military/security,1,12,0.01
+13-threaten.csv,Threaten,president,government/political,1,12,0.01
+13-threaten.csv,Threaten,defense minister,government/political,1,12,0.01
+13-threaten.csv,Threaten,government spokesperson,government/political,1,12,0.01
+13-threaten.csv,Threaten,army commander,military/security,1,12,0.01
+13-threaten.csv,Threaten,border service chief,military/security,1,12,0.01
+13-threaten.csv,Threaten,police chief,military/security,1,12,0.01
+13-threaten.csv,Threaten,prosecutor,justice/legal,1,12,0.01
+13-threaten.csv,Threaten,foreign minister,government/political,1,12,0.01
+13-threaten.csv,Threaten,mayor,government/political,1,12,0.01
+13-threaten.csv,Threaten,regional governor,government/political,1,12,0.01
+13-threaten.csv,Threaten,cybersecurity chief,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,parliament speaker,government/political,1,12,0.01
+13-threaten.csv,Threaten,UN representative,diplomatic/international,1,12,0.01
+13-threaten.csv,Threaten,aid coordinator,humanitarian/civil society,1,12,0.01
+13-threaten.csv,Threaten,investigative journalist,media/education/culture,1,12,0.01
+13-threaten.csv,Threaten,community leader,humanitarian/civil society,1,12,0.01
+13-threaten.csv,Threaten,security service officer,military/security,1,12,0.01
+13-threaten.csv,Threaten,military medic,military/security,1,12,0.01
+13-threaten.csv,Threaten,judge,justice/legal,1,12,0.01
+13-threaten.csv,Threaten,railway union leader,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,power-grid engineer,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,human-rights investigator,justice/legal,1,12,0.01
+13-threaten.csv,Threaten,fire department chief,other,1,12,0.01
+13-threaten.csv,Threaten,school principal,media/education/culture,1,12,0.01
+13-threaten.csv,Threaten,refugee advocate,humanitarian/civil society,1,12,0.01
+13-threaten.csv,Threaten,volunteer organizer,humanitarian/civil society,1,12,0.01
+13-threaten.csv,Threaten,general staff officer,military/security,1,12,0.01
+13-threaten.csv,Threaten,drone unit operator,military/security,1,12,0.01
+13-threaten.csv,Threaten,peace negotiator,diplomatic/international,1,12,0.01
+13-threaten.csv,Threaten,ambassador,diplomatic/international,1,12,0.01
+13-threaten.csv,Threaten,interior minister,government/political,1,12,0.01
+13-threaten.csv,Threaten,border guard patrol,military/security,1,12,0.01
+13-threaten.csv,Threaten,port authority director,government/political,1,12,0.01
+13-threaten.csv,Threaten,hospital director,health,1,12,0.01
+13-threaten.csv,Threaten,farmer cooperative head,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,tech company CEO,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,election official,government/political,1,12,0.01
+13-threaten.csv,Threaten,regional prosecutor,government/political,1,12,0.01
+13-threaten.csv,Threaten,intelligence analyst,military/security,1,12,0.01
+13-threaten.csv,Threaten,local council chair,government/political,1,12,0.01
+13-threaten.csv,Threaten,emergency dispatcher,other,1,12,0.01
+13-threaten.csv,Threaten,Red Cross liaison,diplomatic/international,1,12,0.01
+13-threaten.csv,Threaten,prison warden,military/security,1,12,0.01
+13-threaten.csv,Threaten,customs officer,military/security,1,12,0.01
+13-threaten.csv,Threaten,national bank official,government/political,1,12,0.01
+13-threaten.csv,Threaten,telecom operator,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,university rector,media/education/culture,1,12,0.01
+13-threaten.csv,Threaten,water utility manager,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,anti-corruption officer,military/security,1,12,0.01
+13-threaten.csv,Threaten,transport minister,government/political,1,12,0.01
+13-threaten.csv,Threaten,environmental inspector,justice/legal,1,12,0.01
+13-threaten.csv,Threaten,food safety officer,military/security,1,12,0.01
+13-threaten.csv,Threaten,public health director,health,1,12,0.01
+13-threaten.csv,Threaten,nurse,health,1,12,0.01
+13-threaten.csv,Threaten,paramedic,health,1,12,0.01
+13-threaten.csv,Threaten,pharmacist,health,1,12,0.01
+13-threaten.csv,Threaten,teacher,media/education/culture,1,12,0.01
+13-threaten.csv,Threaten,religious leader,humanitarian/civil society,1,12,0.01
+13-threaten.csv,Threaten,community ombudsman,government/political,1,12,0.01
+13-threaten.csv,Threaten,media regulator,government/political,1,12,0.01
+13-threaten.csv,Threaten,court clerk,government/political,1,12,0.01
+13-threaten.csv,Threaten,labor inspector,justice/legal,1,12,0.01
+13-threaten.csv,Threaten,factory manager,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,warehouse supervisor,other,1,12,0.01
+13-threaten.csv,Threaten,logistics manager,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,railway dispatcher,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,airport security chief,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,harbor master,other,1,12,0.01
+13-threaten.csv,Threaten,energy minister,government/political,1,12,0.01
+13-threaten.csv,Threaten,finance minister,government/political,1,12,0.01
+13-threaten.csv,Threaten,housing commissioner,government/political,1,12,0.01
+13-threaten.csv,Threaten,shelter manager,humanitarian/civil society,1,12,0.01
+13-threaten.csv,Threaten,child protection officer,military/security,1,12,0.01
+13-threaten.csv,Threaten,social worker,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,NGO director,humanitarian/civil society,1,12,0.01
+13-threaten.csv,Threaten,international monitor,government/political,1,12,0.01
+13-threaten.csv,Threaten,OSCE observer,diplomatic/international,1,12,0.01
+13-threaten.csv,Threaten,translator,other,1,12,0.01
+13-threaten.csv,Threaten,civil engineer,other,1,12,0.01
+13-threaten.csv,Threaten,construction foreman,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,water-quality scientist,media/education/culture,1,12,0.01
+13-threaten.csv,Threaten,rescue team leader,other,1,12,0.01
+13-threaten.csv,Threaten,firefighter,other,1,12,0.01
+13-threaten.csv,Threaten,doctor,health,1,12,0.01
+13-threaten.csv,Threaten,ambulance dispatcher,health,1,12,0.01
+13-threaten.csv,Threaten,border crossing manager,military/security,1,12,0.01
+13-threaten.csv,Threaten,press secretary,government/political,1,12,0.01
+13-threaten.csv,Threaten,state TV host,government/political,1,12,0.01
+13-threaten.csv,Threaten,independent editor,media/education/culture,1,12,0.01
+13-threaten.csv,Threaten,cyber volunteer coordinator,humanitarian/civil society,1,12,0.01
+13-threaten.csv,Threaten,bank compliance officer,military/security,1,12,0.01
+13-threaten.csv,Threaten,public prosecutor general,military/security,1,12,0.01
+13-threaten.csv,Threaten,military police officer,military/security,1,12,0.01
+13-threaten.csv,Threaten,detention center director,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,agriculture minister,government/political,1,12,0.01
+13-threaten.csv,Threaten,health minister,government/political,1,12,0.01
+13-threaten.csv,Threaten,disaster response coordinator,humanitarian/civil society,1,12,0.01
+13-threaten.csv,Threaten,public transport director,economy/infrastructure,1,12,0.01
+13-threaten.csv,Threaten,road police captain,military/security,1,12,0.01
+13-threaten.csv,Threaten,checkpoint commander,military/security,1,12,0.01
+14-protest.csv,Protest,citizen,civilian (generic),2,24,0.02
+14-protest.csv,Protest,student,media/education/culture,2,24,0.02
+14-protest.csv,Protest,student leader,media/education/culture,2,24,0.02
+14-protest.csv,Protest,teacher,media/education/culture,2,24,0.02
+14-protest.csv,Protest,nurse,health,2,24,0.02
+14-protest.csv,Protest,doctor,health,2,24,0.02
+14-protest.csv,Protest,paramedic,health,2,24,0.02
+14-protest.csv,Protest,volunteer,humanitarian/civil society,2,24,0.02
+14-protest.csv,Protest,refugee advocate,humanitarian/civil society,2,24,0.02
+14-protest.csv,Protest,community leader,humanitarian/civil society,2,24,0.02
+14-protest.csv,Protest,religious leader,humanitarian/civil society,2,24,0.02
+14-protest.csv,Protest,journalist,media/education/culture,2,24,0.02
+14-protest.csv,Protest,investigative journalist,media/education/culture,2,24,0.02
+14-protest.csv,Protest,independent editor,media/education/culture,2,24,0.02
+14-protest.csv,Protest,factory worker,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,railway worker,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,farmer,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,shop owner,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,family representative,civilian (generic),2,24,0.02
+14-protest.csv,Protest,pensioner,civilian (generic),2,24,0.02
+14-protest.csv,Protest,aid coordinator,humanitarian/civil society,2,24,0.02
+14-protest.csv,Protest,NGO director,humanitarian/civil society,2,24,0.02
+14-protest.csv,Protest,human-rights investigator,justice/legal,2,24,0.02
+14-protest.csv,Protest,public defender,other,2,24,0.02
+14-protest.csv,Protest,mayor,government/political,2,24,0.02
+14-protest.csv,Protest,regional governor,government/political,2,24,0.02
+14-protest.csv,Protest,member of parliament,government/political,2,24,0.02
+14-protest.csv,Protest,parliament speaker,government/political,2,24,0.02
+14-protest.csv,Protest,government spokesperson,government/political,2,24,0.02
+14-protest.csv,Protest,media regulator,government/political,2,24,0.02
+14-protest.csv,Protest,police officer,military/security,2,24,0.02
+14-protest.csv,Protest,police chief,military/security,2,24,0.02
+14-protest.csv,Protest,border guard,military/security,2,24,0.02
+14-protest.csv,Protest,border service chief,military/security,2,24,0.02
+14-protest.csv,Protest,checkpoint commander,military/security,2,24,0.02
+14-protest.csv,Protest,cyber volunteer,humanitarian/civil society,2,24,0.02
+14-protest.csv,Protest,cybersecurity chief,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,telecom worker,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,energy worker,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,power-grid engineer,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,water utility technician,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,logistics manager,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,transport director,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,port worker,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,airport worker,economy/infrastructure,2,24,0.02
+14-protest.csv,Protest,construction worker,economy/infrastructure,1,12,0.01
+14-protest.csv,Protest,engineer,other,1,12,0.01
+14-protest.csv,Protest,social worker,economy/infrastructure,1,12,0.01
+14-protest.csv,Protest,child protection officer,military/security,1,12,0.01
+14-protest.csv,Protest,school principal,media/education/culture,1,12,0.01
+14-protest.csv,Protest,university rector,media/education/culture,1,12,0.01
+14-protest.csv,Protest,artist,media/education/culture,1,12,0.01
+14-protest.csv,Protest,musician,other,1,12,0.01
+14-protest.csv,Protest,athlete,other,1,12,0.01
+14-protest.csv,Protest,museum curator,media/education/culture,1,12,0.01
+15-exhibit_force.csv,Exhibit Force,police chief,military/security,7,84,0.07
+15-exhibit_force.csv,Exhibit Force,military police officer,military/security,7,84,0.07
+15-exhibit_force.csv,Exhibit Force,army commander,military/security,4,48,0.04
+15-exhibit_force.csv,Exhibit Force,border service chief,military/security,4,48,0.04
+15-exhibit_force.csv,Exhibit Force,customs officer,military/security,4,48,0.04
+15-exhibit_force.csv,Exhibit Force,coast guard commander,military/security,4,48,0.04
+15-exhibit_force.csv,Exhibit Force,border guard patrol,military/security,3,36,0.03
+15-exhibit_force.csv,Exhibit Force,power-grid security chief,economy/infrastructure,3,36,0.03
+15-exhibit_force.csv,Exhibit Force,water utility security chief,economy/infrastructure,3,36,0.03
+15-exhibit_force.csv,Exhibit Force,shelter security manager,humanitarian/civil society,3,36,0.03
+15-exhibit_force.csv,Exhibit Force,road police captain,military/security,3,36,0.03
+15-exhibit_force.csv,Exhibit Force,naval officer,military/security,3,36,0.03
+15-exhibit_force.csv,Exhibit Force,president,government/political,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,defense minister,government/political,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,interior minister,government/political,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,general staff officer,military/security,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,air defense officer,military/security,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,drone unit operator,military/security,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,checkpoint commander,military/security,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,security service officer,military/security,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,regional governor,government/political,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,mayor,government/political,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,local council chair,government/political,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,transport minister,government/political,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,railway security chief,economy/infrastructure,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,port authority director,government/political,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,harbor master,other,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,airport security chief,economy/infrastructure,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,emergency services chief,other,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,fire department chief,other,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,rescue team leader,other,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,hospital security chief,health,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,school security coordinator,humanitarian/civil society,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,factory security manager,economy/infrastructure,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,warehouse security supervisor,other,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,energy minister,government/political,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,public transport director,economy/infrastructure,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,cybersecurity chief,economy/infrastructure,1,12,0.01
+15-exhibit_force.csv,Exhibit Force,telecom operator,economy/infrastructure,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,foreign minister,government/political,3,36,0.03
+16-reduce_relations.csv,Reduce Relations,regional governor,government/political,3,36,0.03
+16-reduce_relations.csv,Reduce Relations,central foreign ministry,government/political,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,national foreign ministry,government/political,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,regional foreign ministry,government/political,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,municipal foreign ministry,government/political,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,central consular office,diplomatic/international,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,national consular office,government/political,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,regional consular office,government/political,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,central trade minister,government/political,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,national trade minister,government/political,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,regional trade minister,government/political,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,municipal trade minister,government/political,2,24,0.02
+16-reduce_relations.csv,Reduce Relations,central government,other,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national government,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional government,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal government,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central ambassador,diplomatic/international,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national ambassador,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional ambassador,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal ambassador,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central parliament speaker,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national parliament speaker,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional parliament speaker,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal parliament speaker,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central parliament committee chair,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national parliament committee chair,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional parliament committee chair,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal parliament committee chair,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central peace negotiator,diplomatic/international,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national peace negotiator,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional peace negotiator,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal peace negotiator,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central finance ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national finance ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional finance ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal finance ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central energy ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national energy ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional energy ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal energy ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central transport ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national transport ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional transport ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal transport ministry,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central border service chief,military/security,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national border service chief,military/security,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional border service chief,military/security,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal border service chief,military/security,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal consular office,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,deputy foreign minister,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,ambassador,diplomatic/international,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,special envoy,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,peace negotiator,diplomatic/international,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,UN representative,diplomatic/international,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,parliament speaker,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,president,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,prime minister,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional national bank official,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal national bank official,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central aid coordinator,humanitarian/civil society,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national aid coordinator,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional aid coordinator,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal aid coordinator,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central Red Cross liaison,diplomatic/international,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national Red Cross liaison,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional Red Cross liaison,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal Red Cross liaison,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central NGO director,humanitarian/civil society,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national NGO director,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional NGO director,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal NGO director,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central public health director,health,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national public health director,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional public health director,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal public health director,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central hospital director,health,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national hospital director,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional hospital director,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal hospital director,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central education minister,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,national education minister,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,regional education minister,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,municipal education minister,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,mayor,government/political,1,12,0.01
+17-coerce.csv,Coerce,interior minister,government/political,7,84,0.07
+17-coerce.csv,Coerce,police chief,military/security,7,84,0.07
+17-coerce.csv,Coerce,prosecutor,justice/legal,7,84,0.07
+17-coerce.csv,Coerce,regional governor,government/political,5,60,0.05
+17-coerce.csv,Coerce,border service chief,military/security,5,60,0.05
+17-coerce.csv,Coerce,security service officer,military/security,5,60,0.05
+17-coerce.csv,Coerce,police detective,military/security,4,48,0.04
+17-coerce.csv,Coerce,cybersecurity chief,economy/infrastructure,4,48,0.04
+17-coerce.csv,Coerce,mayor,government/political,3,36,0.03
+17-coerce.csv,Coerce,police captain,military/security,3,36,0.03
+17-coerce.csv,Coerce,military police officer,military/security,3,36,0.03
+17-coerce.csv,Coerce,president,government/political,2,24,0.02
+17-coerce.csv,Coerce,prime minister,government/political,2,24,0.02
+17-coerce.csv,Coerce,foreign minister,government/political,2,24,0.02
+17-coerce.csv,Coerce,defense minister,government/political,2,24,0.02
+17-coerce.csv,Coerce,parliament speaker,government/political,2,24,0.02
+17-coerce.csv,Coerce,member of parliament,government/political,2,24,0.02
+17-coerce.csv,Coerce,local council chair,government/political,2,24,0.02
+17-coerce.csv,Coerce,border guard patrol,military/security,2,24,0.02
+17-coerce.csv,Coerce,environmental inspector,justice/legal,2,24,0.02
+17-coerce.csv,Coerce,anti-corruption officer,military/security,2,24,0.02
+17-coerce.csv,Coerce,media regulator,government/political,2,24,0.02
+17-coerce.csv,Coerce,municipal auditor,government/political,2,24,0.02
+17-coerce.csv,Coerce,customs officer,military/security,2,24,0.02
+17-coerce.csv,Coerce,labor inspector,justice/legal,2,24,0.02
+17-coerce.csv,Coerce,judge,justice/legal,2,24,0.02
+17-coerce.csv,Coerce,public procurement officer,military/security,2,24,0.02
+17-coerce.csv,Coerce,checkpoint commander,military/security,1,12,0.01
+17-coerce.csv,Coerce,army commander,military/security,1,12,0.01
+17-coerce.csv,Coerce,general staff officer,military/security,1,12,0.01
+17-coerce.csv,Coerce,housing commissioner,government/political,1,12,0.01
+17-coerce.csv,Coerce,finance minister,government/political,1,12,0.01
+17-coerce.csv,Coerce,road police captain,military/security,1,12,0.01
+17-coerce.csv,Coerce,child protection officer,military/security,1,12,0.01
+17-coerce.csv,Coerce,fire department chief,other,1,12,0.01
+17-coerce.csv,Coerce,transport minister,government/political,1,12,0.01
+17-coerce.csv,Coerce,port authority director,government/political,1,12,0.01
+17-coerce.csv,Coerce,harbor master,other,1,12,0.01
+17-coerce.csv,Coerce,airport security chief,economy/infrastructure,1,12,0.01
+17-coerce.csv,Coerce,seaport security officer,military/security,1,12,0.01
+17-coerce.csv,Coerce,bank compliance officer,military/security,1,12,0.01
+17-coerce.csv,Coerce,consumer protection officer,military/security,1,12,0.01
+18-assault.csv,Assault,special forces officer,military/security,4,48,0.04
+18-assault.csv,Assault,armored brigade commander,military/security,4,48,0.04
+18-assault.csv,Assault,fighter pilot,military/security,4,48,0.04
+18-assault.csv,Assault,rocket unit commander,military/security,4,48,0.04
+18-assault.csv,Assault,drone unit commander,military/security,4,48,0.04
+18-assault.csv,Assault,infantry platoon leader,military/security,4,48,0.04
+18-assault.csv,Assault,artillery officer,military/security,3,36,0.03
+18-assault.csv,Assault,military police officer,military/security,3,36,0.03
+18-assault.csv,Assault,artillery battery commander,military/security,3,36,0.03
+18-assault.csv,Assault,territorial defense commander,military/security,3,36,0.03
+18-assault.csv,Assault,special operations commander,military/security,3,36,0.03
+18-assault.csv,Assault,army commander,military/security,2,24,0.02
+18-assault.csv,Assault,unit commander,military/security,2,24,0.02
+18-assault.csv,Assault,tank crew member,military/security,2,24,0.02
+18-assault.csv,Assault,air defense officer,military/security,2,24,0.02
+18-assault.csv,Assault,naval officer,military/security,2,24,0.02
+18-assault.csv,Assault,border guard patrol,military/security,2,24,0.02
+18-assault.csv,Assault,security service officer,military/security,2,24,0.02
+18-assault.csv,Assault,checkpoint commander,military/security,2,24,0.02
+18-assault.csv,Assault,general staff officer,military/security,2,24,0.02
+18-assault.csv,Assault,field commander,military/security,2,24,0.02
+18-assault.csv,Assault,combat engineer,other,2,24,0.02
+18-assault.csv,Assault,reconnaissance officer,military/security,2,24,0.02
+18-assault.csv,Assault,marine commander,military/security,2,24,0.02
+18-assault.csv,Assault,paramilitary leader,military/security,2,24,0.02
+18-assault.csv,Assault,armed unit,other,2,24,0.02
+18-assault.csv,Assault,security unit,other,2,24,0.02
+18-assault.csv,Assault,operations chief,other,2,24,0.02
+18-assault.csv,Assault,regional security chief,government/political,2,24,0.02
+18-assault.csv,Assault,coast guard commander,military/security,2,24,0.02
+18-assault.csv,Assault,airbase commander,military/security,2,24,0.02
+18-assault.csv,Assault,missile unit officer,military/security,2,24,0.02
+18-assault.csv,Assault,sniper team leader,military/security,2,24,0.02
+18-assault.csv,Assault,frontline commander,military/security,2,24,0.02
+18-assault.csv,Assault,rapid response unit,other,2,24,0.02
+18-assault.csv,Assault,security patrol leader,military/security,2,24,0.02
+18-assault.csv,Assault,border security unit,military/security,2,24,0.02
+18-assault.csv,Assault,naval patrol commander,military/security,2,24,0.02
+18-assault.csv,Assault,air patrol commander,military/security,2,24,0.02
+18-assault.csv,Assault,route security commander,military/security,2,24,0.02
+18-assault.csv,Assault,drone operator,military/security,1,12,0.01
+18-assault.csv,Assault,base security commander,military/security,1,12,0.01
+18-assault.csv,Assault,convoy security commander,military/security,1,12,0.01
+19-fight.csv,Fight,frontline infantry soldier,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense infantry soldier,military/security,1,12,0.01
+19-fight.csv,Fight,reserve infantry soldier,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response infantry soldier,military/security,1,12,0.01
+19-fight.csv,Fight,frontline mechanized infantry soldier,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense mechanized infantry soldier,military/security,1,12,0.01
+19-fight.csv,Fight,reserve mechanized infantry soldier,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response mechanized infantry soldier,military/security,1,12,0.01
+19-fight.csv,Fight,frontline armored crew member,other,1,12,0.01
+19-fight.csv,Fight,territorial defense armored crew member,other,1,12,0.01
+19-fight.csv,Fight,reserve armored crew member,other,1,12,0.01
+19-fight.csv,Fight,rapid-response armored crew member,other,1,12,0.01
+19-fight.csv,Fight,frontline artillery gunner,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense artillery gunner,military/security,1,12,0.01
+19-fight.csv,Fight,reserve artillery gunner,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response artillery gunner,military/security,1,12,0.01
+19-fight.csv,Fight,frontline drone operator,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense drone operator,military/security,1,12,0.01
+19-fight.csv,Fight,reserve drone operator,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response drone operator,military/security,1,12,0.01
+19-fight.csv,Fight,frontline combat engineer,other,1,12,0.01
+19-fight.csv,Fight,territorial defense combat engineer,other,1,12,0.01
+19-fight.csv,Fight,reserve combat engineer,other,1,12,0.01
+19-fight.csv,Fight,rapid-response combat engineer,other,1,12,0.01
+19-fight.csv,Fight,frontline sapper,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense sapper,military/security,1,12,0.01
+19-fight.csv,Fight,reserve sapper,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response sapper,military/security,1,12,0.01
+19-fight.csv,Fight,frontline reconnaissance scout,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense reconnaissance scout,military/security,1,12,0.01
+19-fight.csv,Fight,reserve reconnaissance scout,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response reconnaissance scout,military/security,1,12,0.01
+19-fight.csv,Fight,frontline sniper team leader,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense sniper team leader,military/security,1,12,0.01
+19-fight.csv,Fight,reserve sniper team leader,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response sniper team leader,military/security,1,12,0.01
+19-fight.csv,Fight,frontline air defense operator,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense air defense operator,military/security,1,12,0.01
+19-fight.csv,Fight,reserve air defense operator,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response air defense operator,military/security,1,12,0.01
+19-fight.csv,Fight,frontline field medic,health,1,12,0.01
+19-fight.csv,Fight,territorial defense field medic,health,1,12,0.01
+19-fight.csv,Fight,reserve field medic,health,1,12,0.01
+19-fight.csv,Fight,rapid-response field medic,health,1,12,0.01
+19-fight.csv,Fight,frontline military police officer,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense military police officer,military/security,1,12,0.01
+19-fight.csv,Fight,reserve military police officer,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response military police officer,military/security,1,12,0.01
+19-fight.csv,Fight,frontline platoon leader,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense platoon leader,military/security,1,12,0.01
+19-fight.csv,Fight,reserve platoon leader,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response platoon leader,military/security,1,12,0.01
+19-fight.csv,Fight,frontline company commander,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense company commander,military/security,1,12,0.01
+19-fight.csv,Fight,reserve company commander,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response company commander,military/security,1,12,0.01
+19-fight.csv,Fight,frontline battalion commander,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense battalion commander,military/security,1,12,0.01
+19-fight.csv,Fight,reserve battalion commander,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response battalion commander,military/security,1,12,0.01
+19-fight.csv,Fight,frontline brigade staff officer,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense brigade staff officer,military/security,1,12,0.01
+19-fight.csv,Fight,reserve brigade staff officer,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response brigade staff officer,military/security,1,12,0.01
+19-fight.csv,Fight,frontline logistics officer,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense logistics officer,military/security,1,12,0.01
+19-fight.csv,Fight,reserve logistics officer,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response logistics officer,military/security,1,12,0.01
+19-fight.csv,Fight,frontline communications specialist,other,1,12,0.01
+19-fight.csv,Fight,territorial defense communications specialist,other,1,12,0.01
+19-fight.csv,Fight,reserve communications specialist,other,1,12,0.01
+19-fight.csv,Fight,rapid-response communications specialist,other,1,12,0.01
+19-fight.csv,Fight,frontline route security commander,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense route security commander,military/security,1,12,0.01
+19-fight.csv,Fight,reserve route security commander,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response route security commander,military/security,1,12,0.01
+19-fight.csv,Fight,frontline checkpoint commander,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense checkpoint commander,military/security,1,12,0.01
+19-fight.csv,Fight,reserve checkpoint commander,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response checkpoint commander,military/security,1,12,0.01
+19-fight.csv,Fight,frontline border guard,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense border guard,military/security,1,12,0.01
+19-fight.csv,Fight,reserve border guard,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response border guard,military/security,1,12,0.01
+19-fight.csv,Fight,frontline coast guard sailor,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense coast guard sailor,military/security,1,12,0.01
+19-fight.csv,Fight,reserve coast guard sailor,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response coast guard sailor,military/security,1,12,0.01
+19-fight.csv,Fight,frontline naval marine,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense naval marine,military/security,1,12,0.01
+19-fight.csv,Fight,reserve naval marine,military/security,1,12,0.01
+19-fight.csv,Fight,rapid-response naval marine,military/security,1,12,0.01
+19-fight.csv,Fight,frontline UAV technician,economy/infrastructure,1,12,0.01
+19-fight.csv,Fight,territorial defense UAV technician,economy/infrastructure,1,12,0.01
+19-fight.csv,Fight,reserve UAV technician,economy/infrastructure,1,12,0.01
+19-fight.csv,Fight,rapid-response UAV technician,economy/infrastructure,1,12,0.01
+19-fight.csv,Fight,frontline electronic warfare operator,economy/infrastructure,1,12,0.01
+19-fight.csv,Fight,territorial defense electronic warfare operator,economy/infrastructure,1,12,0.01
+19-fight.csv,Fight,reserve electronic warfare operator,economy/infrastructure,1,12,0.01
+19-fight.csv,Fight,rapid-response electronic warfare operator,economy/infrastructure,1,12,0.01
+20-mass_violence.csv,Mass Violence,war-crimes prosecutor,justice/legal,4,48,0.04
+20-mass_violence.csv,Mass Violence,aid coordinator,humanitarian/civil society,4,48,0.04
+20-mass_violence.csv,Mass Violence,hospital director,health,3,36,0.03
+20-mass_violence.csv,Mass Violence,human-rights investigator,justice/legal,3,36,0.03
+20-mass_violence.csv,Mass Violence,Red Cross liaison,diplomatic/international,3,36,0.03
+20-mass_violence.csv,Mass Violence,field doctor,health,3,36,0.03
+20-mass_violence.csv,Mass Violence,paramedic,health,3,36,0.03
+20-mass_violence.csv,Mass Violence,psychologist,health,3,36,0.03
+20-mass_violence.csv,Mass Violence,police detective,military/security,3,36,0.03
+20-mass_violence.csv,Mass Violence,president,government/political,2,24,0.02
+20-mass_violence.csv,Mass Violence,foreign minister,government/political,2,24,0.02
+20-mass_violence.csv,Mass Violence,parliament speaker,government/political,2,24,0.02
+20-mass_violence.csv,Mass Violence,member of parliament,government/political,2,24,0.02
+20-mass_violence.csv,Mass Violence,UN representative,diplomatic/international,2,24,0.02
+20-mass_violence.csv,Mass Violence,OSCE observer,diplomatic/international,2,24,0.02
+20-mass_violence.csv,Mass Violence,international monitor,government/political,2,24,0.02
+20-mass_violence.csv,Mass Violence,regional prosecutor,government/political,2,24,0.02
+20-mass_violence.csv,Mass Violence,judge,justice/legal,2,24,0.02
+20-mass_violence.csv,Mass Violence,public defender,other,2,24,0.02
+20-mass_violence.csv,Mass Violence,ombudsman,government/political,2,24,0.02
+20-mass_violence.csv,Mass Violence,community leader,humanitarian/civil society,2,24,0.02
+20-mass_violence.csv,Mass Violence,religious leader,humanitarian/civil society,2,24,0.02
+20-mass_violence.csv,Mass Violence,mayor,government/political,2,24,0.02
+20-mass_violence.csv,Mass Violence,regional governor,government/political,2,24,0.02
+20-mass_violence.csv,Mass Violence,NGO director,humanitarian/civil society,2,24,0.02
+20-mass_violence.csv,Mass Violence,nurse,health,2,24,0.02
+20-mass_violence.csv,Mass Violence,social worker,economy/infrastructure,2,24,0.02
+20-mass_violence.csv,Mass Violence,child protection officer,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,refugee advocate,humanitarian/civil society,2,24,0.02
+20-mass_violence.csv,Mass Violence,press secretary,government/political,2,24,0.02
+20-mass_violence.csv,Mass Violence,police chief,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,security service officer,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,military police officer,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,army commander,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,unit commander,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,border service chief,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,border guard patrol,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,customs officer,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,telecom operator,economy/infrastructure,2,24,0.02
+20-mass_violence.csv,Mass Violence,bank compliance officer,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,anti-corruption officer,military/security,2,24,0.02
+20-mass_violence.csv,Mass Violence,fact-checker,other,1,12,0.01
+20-mass_violence.csv,Mass Violence,checkpoint commander,military/security,1,12,0.01
+20-mass_violence.csv,Mass Violence,government spokesperson,government/political,1,12,0.01
+20-mass_violence.csv,Mass Violence,public health director,health,1,12,0.01
+20-mass_violence.csv,Mass Violence,investigative journalist,media/education/culture,1,12,0.01
+20-mass_violence.csv,Mass Violence,independent editor,media/education/culture,1,12,0.01
+20-mass_violence.csv,Mass Violence,national bank official,government/political,1,12,0.01

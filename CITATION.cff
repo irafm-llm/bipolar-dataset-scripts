@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the dataset and the data article."
+type: dataset
+title: "MIRROR-EN-UA-RU: Synthetic trilingual minimal-pair sentences for nationality and language bias evaluation in large language models"
+version: "1.1"
+date-released: "2026-09-01"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.20641321
+repository-code: "https://github.com/irafm-llm/bipolar-dataset-scripts"
+authors:
+  - family-names: Pavlíček
+    given-names: Martin
+    affiliation: "Institute for Research and Applications of Fuzzy Modeling, University of Ostrava"
+  - family-names: Filip
+    given-names: Tomáš
+    affiliation: "Institute for Research and Applications of Fuzzy Modeling, University of Ostrava"
+    email: tomas.filip@osu.cz
+  - family-names: Sosík
+    given-names: Petr
+    affiliation: "Institute for Research and Applications of Fuzzy Modeling, University of Ostrava; Institute of Computer Science, Silesian University in Opava"
+keywords:
+  - CAMEO
+  - minimal pairs
+  - benchmark
+  - fairness
+  - nationality bias
+  - Ukrainian
+  - Russian
+  - large language models
+preferred-citation:
+  type: article
+  title: "A synthetic multilingual dataset of mirrored sentences for evaluating language and nationality bias in large language models"
+  journal: "Data in Brief"
+  year: 2026
+  authors:
+    - family-names: Pavlíček
+      given-names: Martin
+    - family-names: Filip
+      given-names: Tomáš
+    - family-names: Sosík
+      given-names: Petr
+references:
+  - type: article
+    title: "BIPOLAR: Polarization-based granular framework for LLM bias evaluation"
+    journal: "Theoretical Computer Science"
+    volume: 1083
+    year: 2026
+    doi: 10.1016/j.tcs.2026.116117
+    authors:
+      - family-names: Filip
+        given-names: Tomáš
+      - family-names: Pavlíček
+        given-names: Martin
+      - family-names: Sosík
+        given-names: Petr

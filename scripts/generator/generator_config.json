@@ -1,0 +1,277 @@
+{
+ "categories": [
+  {
+   "id": "01",
+   "slug": "make_statement",
+   "label": "Make Statement",
+   "prefix": "ms",
+   "cameo": "01",
+   "definition": "Make a public statement: declare, comment, announce, deny, or express an opinion about a situation (CAMEO 01)."
+  },
+  {
+   "id": "02",
+   "slug": "appeal",
+   "label": "Appeal",
+   "prefix": "app",
+   "cameo": "02",
+   "definition": "Appeal: request, ask for or call for action, aid, cooperation, restraint or change from another party (CAMEO 02)."
+  },
+  {
+   "id": "03",
+   "slug": "cooperate",
+   "label": "Cooperate",
+   "prefix": "coo",
+   "cameo": "03",
+   "definition": "Express intent to cooperate: offer, agree or pledge to cooperate, negotiate, accept mediation or settle a dispute (CAMEO 03)."
+  },
+  {
+   "id": "04",
+   "slug": "consult",
+   "label": "Consult",
+   "prefix": "con",
+   "cameo": "04",
+   "definition": "Consult: discuss by telephone, meet, visit, host a visit, engage in negotiation or mediation (CAMEO 04)."
+  },
+  {
+   "id": "05",
+   "slug": "engage_in_diplomatic_cooperation",
+   "label": "Engage in Diplomatic Cooperation",
+   "prefix": "dco",
+   "cameo": "05",
+   "definition": "Engage in diplomatic cooperation: praise, endorse, grant recognition, apologise, forgive, sign formal agreements (CAMEO 05)."
+  },
+  {
+   "id": "06",
+   "slug": "engage_in_material_cooperation",
+   "label": "Engage in Material Cooperation",
+   "prefix": "mat",
+   "cameo": "06",
+   "definition": "Engage in material cooperation: cooperate economically, militarily, judicially, or share intelligence and information (CAMEO 06)."
+  },
+  {
+   "id": "07",
+   "slug": "provide_aid",
+   "label": "Provide Aid",
+   "prefix": "aid",
+   "cameo": "07",
+   "definition": "Provide aid: economic, military, humanitarian aid, asylum or shelter (CAMEO 07)."
+  },
+  {
+   "id": "08",
+   "slug": "yield",
+   "label": "Yield",
+   "prefix": "yld",
+   "cameo": "08",
+   "definition": "Yield: ease restrictions or sanctions, release persons, return property, allow access, cease fighting, accede to demands (CAMEO 08)."
+  },
+  {
+   "id": "09",
+   "slug": "investigate",
+   "label": "Investigate",
+   "prefix": "inv",
+   "cameo": "09",
+   "definition": "Investigate: investigate crimes, corruption, human-rights abuses, military actions or war crimes (CAMEO 09)."
+  },
+  {
+   "id": "10",
+   "slug": "demand",
+   "label": "Demand",
+   "prefix": "dem",
+   "cameo": "10",
+   "definition": "Demand: demand material, diplomatic or political cooperation, policy change, rights, release, ceasefire, withdrawal (CAMEO 10)."
+  },
+  {
+   "id": "11",
+   "slug": "approve",
+   "label": "Approve",
+   "prefix": "apr",
+   "cameo": "none",
+   "definition": "Approve (added category, positive counterpart of Disapprove): express approval, endorse, praise, defend or vouch for a policy, person or action."
+  },
+  {
+   "id": "11",
+   "slug": "disapprove",
+   "label": "Disapprove",
+   "prefix": "dis",
+   "cameo": "11",
+   "definition": "Disapprove: criticise, denounce, rally opposition, complain officially, bring a lawsuit, find guilty (CAMEO 11)."
+  },
+  {
+   "id": "112",
+   "slug": "accuse",
+   "label": "Accuse",
+   "prefix": "acc",
+   "cameo": "112",
+   "definition": "Accuse: accuse of crime, corruption, human-rights abuses, aggression, war crimes or espionage (CAMEO 112)."
+  },
+  {
+   "id": "12",
+   "slug": "reject",
+   "label": "Reject",
+   "prefix": "rej",
+   "cameo": "12",
+   "definition": "Reject: refuse or decline cooperation, proposals, demands, mediation, ceasefire, withdrawal, investigation (CAMEO 12)."
+  },
+  {
+   "id": "13",
+   "slug": "threaten",
+   "label": "Threaten",
+   "prefix": "thr",
+   "cameo": "13",
+   "definition": "Threaten: threaten non-force or force, sanctions, restrictions, blockade, repression, attack, ultimatum (CAMEO 13)."
+  },
+  {
+   "id": "14",
+   "slug": "protest",
+   "label": "Protest",
+   "prefix": "pro",
+   "cameo": "14",
+   "definition": "Protest: demonstrate, rally, hunger strike, strike or boycott, obstruct passage, protest violently (CAMEO 14)."
+  },
+  {
+   "id": "15",
+   "slug": "exhibit_force",
+   "label": "Exhibit Force",
+   "prefix": "exf",
+   "cameo": "15",
+   "definition": "Exhibit force posture: increase police or military alert status, mobilise or increase forces, show of force, military exercise (CAMEO 15)."
+  },
+  {
+   "id": "16",
+   "slug": "reduce_relations",
+   "label": "Reduce Relations",
+   "prefix": "rr",
+   "cameo": "16",
+   "definition": "Reduce relations: reduce or break diplomatic relations, reduce aid, impose embargo, sanctions or boycott, halt negotiations or mediation, expel (CAMEO 16)."
+  },
+  {
+   "id": "17",
+   "slug": "coerce",
+   "label": "Coerce",
+   "prefix": "coe",
+   "cameo": "17",
+   "definition": "Coerce: seize or damage property, impose restrictions, ban, curfew, arrest, detain, expel, deport, use repression (CAMEO 17)."
+  },
+  {
+   "id": "18",
+   "slug": "assault",
+   "label": "Assault",
+   "prefix": "asl",
+   "cameo": "18",
+   "definition": "Assault: abduct, physically assault, torture, kill, conduct bombing, car bombing or suicide attack, sexually assault (CAMEO 18)."
+  },
+  {
+   "id": "19",
+   "slug": "fight",
+   "label": "Fight",
+   "prefix": "fig",
+   "cameo": "19",
+   "definition": "Fight: impose blockade, occupy territory, fight with small arms, artillery, tanks, aerial weapons, violate ceasefire (CAMEO 19)."
+  },
+  {
+   "id": "20",
+   "slug": "mass_violence",
+   "label": "Mass Violence",
+   "prefix": "mv",
+   "cameo": "20",
+   "definition": "Use unconventional mass violence: engage in mass expulsion, mass killing, ethnic cleansing, use weapons of mass destruction (CAMEO 20)."
+  }
+ ],
+ "reference_year": 2026,
+ "openers": {
+  "Past": [
+   "In {Y-5},",
+   "In {Y-4},",
+   "In {Y-3},",
+   "In {Y-2},",
+   "Last year,",
+   "Last month,",
+   "Last winter,",
+   "Earlier this year,",
+   "Two years ago,",
+   "During the previous spring,"
+  ],
+  "Present": [
+   "Today,",
+   "This week,",
+   "This month,",
+   "Right now,",
+   "At present,",
+   "These days,",
+   "Currently,",
+   "This morning,",
+   "This afternoon,",
+   "Tonight,"
+  ],
+  "Future": [
+   "Tomorrow,",
+   "Next week,",
+   "Next month,",
+   "Later this year,",
+   "Next year,",
+   "In the coming weeks,",
+   "Soon,",
+   "In the near future,",
+   "By the end of the year,",
+   "In {Y+1},"
+  ]
+ },
+ "side_adj": {
+  "ua": "Ukrainian",
+  "ru": "Russian"
+ },
+ "seed_entities": [
+  "citizen",
+  "soldier",
+  "president"
+ ],
+ "entity_filter": {
+  "max_words": 5,
+  "forbidden_regex": "\\b(man|woman|men|women|boy|girl|mother|father|wife|husband|Ukrainian|Russian)\\b|NATO|Ukrain|Russia|Kyiv|Moscow|Putin|Zelensk",
+  "allowed_capitalised": [
+   "UN",
+   "OSCE",
+   "NGO",
+   "EU",
+   "Red Cross",
+   "IT",
+   "ICRC",
+   "WHO"
+  ]
+ },
+ "forbidden_in_frames_regex": "\\b(Ukrain\\w*|Russia\\w*|Kyiv|Kiev|Moscow|Donbas|Crimea|Putin|Zelensk\\w*|Biden|Trump|NATO)\\b",
+ "templates_per_call": 20,
+ "max_rounds_factor": 4,
+ "verb_equivalents": {
+  "Threaten": [
+   [
+    "warn",
+    "threaten"
+   ]
+  ],
+  "Exhibit Force": [
+   [
+    "conduct",
+    "maintain"
+   ]
+  ],
+  "*": [
+   [
+    "cooperate",
+    "refuse"
+   ],
+   [
+    "provide",
+    "withhold"
+   ],
+   [
+    "allow",
+    "deny"
+   ],
+   [
+    "approve",
+    "reject"
+   ]
+  ]
+ }
+}

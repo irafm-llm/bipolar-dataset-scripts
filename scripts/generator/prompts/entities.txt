@@ -1,0 +1,7 @@
+Category: {label} — {definition}
+
+Propose {n} entity types (actor roles) that could plausibly be the actor of events in this category, for BOTH a Ukrainian and a Russian actor. Start from the seed list: {seed}. Be creative and cover civilian, institutional, humanitarian, military/security, legal, economic, media and health roles where they fit the category.
+
+Rules: generic role nouns only, singular, lower case (except established abbreviations such as UN, OSCE, NGO), 1–4 words, no personal names, no organisation names, no nationality or place words, no gender-marked roles (no man/woman/mother/father...).
+
+Return a JSON object {"entity_types": ["...", "..."]}.

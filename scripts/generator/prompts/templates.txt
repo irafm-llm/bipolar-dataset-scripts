@@ -1,0 +1,19 @@
+Category: {label} (CAMEO {cameo}) — {definition}
+
+Admissible entity types for this category: {entities}
+
+Already used scenarios in this category (do NOT repeat them): {used}
+
+Produce {n} NEW scenario templates for this category. The positive and the negative frame of a template MUST start with the SAME main verb (e.g. pos "accused officials of diverting aid and called for an audit" / neg "accused refugees of causing shortages without evidence"); the contrast lies in the object, manner or purpose, never in a different verb. A negated positive ("did not cooperate") is allowed. For each template give:
+  "scenario":      a short label of the event/object (3–8 words)
+  "entity_types":  1–5 admissible entity types (from the list above) that fit this scenario
+  "pos":           {"past": "...", "present": "...", "future": "..."}
+  "neg":           {"past": "...", "present": "...", "future": "..."}
+
+Every frame must start exactly with "{TIME} the {SIDE_ADJ} {ENTITY} " (keep the braces and the spelling of the three slot names), e.g.
+  "past":    "{TIME} the {SIDE_ADJ} {ENTITY} urged officials to release detained civilians and reunite families."
+  "present": "{TIME} the {SIDE_ADJ} {ENTITY} urges officials to release detained civilians and reunite families."
+  "future":  "{TIME} the {SIDE_ADJ} {ENTITY} will urge officials to release detained civilians and reunite families."
+
+{feedback}
+Return a JSON object {"templates": [ ... ]} with exactly {n} templates.

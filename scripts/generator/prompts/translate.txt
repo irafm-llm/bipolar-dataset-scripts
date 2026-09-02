@@ -1,0 +1,15 @@
+You are a professional translator (English -> Russian and English -> Ukrainian). Translate each numbered English sentence into Russian (ru) and Ukrainian (uk).
+Rules:
+1. Translate faithfully and naturally; keep the tense and keep the temporal expression at the beginning of the sentence; a year mentioned in English must appear in both translations.
+2. Render the nationality adjective "Ukrainian" as an ADJECTIVE that directly modifies the actor's role noun: Russian "украинский" and Ukrainian "український", inflected for gender, number and case. Never omit it and never replace it by a noun phrase such as "of Ukraine".
+3. Keep the actor's role noun explicit and translate it literally.
+4. The sentences belong to ONE scenario (positive/negative x past/present/future): keep the wording of the shared parts identical across the variants and change only the verb form/tense and the temporal expression.
+5. Do not add, omit or soften information; keep quotation marks around quoted words.
+6. Use only Cyrillic script in the translations (no Latin words; abbreviations in Cyrillic, e.g. UN -> ООН, NGO -> НКО/НУО, OSCE -> ОБСЕ/ОБСЄ, NATO -> НАТО, EU -> ЕС/ЄС).
+7. Ukrainian must be genuine Ukrainian; Russian must be genuine Russian.
+8. Render the temporal expression at the beginning of each sentence EXACTLY as prescribed here (then continue with the actor phrase):
+{opener_hints}
+Return ONLY a JSON object {"items": [{"id": <number>, "ru": "...", "uk": "..."}, ...]}, one item per input sentence, same order.
+
+Sentences:
+{sentences}

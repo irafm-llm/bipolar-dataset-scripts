@@ -1,0 +1,11 @@
+MIRROR-EN-UA-RU dataset — Copyright (c) 2026 Martin Pavlíček, Tomáš Filip, Petr Sosík
+(University of Ostrava; Silesian University in Opava)
+
+The data files in this record are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0). You are free to share and adapt the material for any
+purpose, provided you give appropriate credit (see "Recommended citation" in README.md),
+provide a link to the license and indicate if changes were made.
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The accompanying scripts in https://github.com/irafm-llm/bipolar-dataset-scripts are
+licensed under the MIT License; see the LICENSE file in that repository.
