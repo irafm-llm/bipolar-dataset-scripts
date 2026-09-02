@@ -1,6 +1,6 @@
 # Entity-type statistics
 
-Distinct entity types overall: 410; (category, entity) combinations: 1304
+Distinct entity types overall: 415; (category, entity) combinations: 1308
 
 | File | Category | Entity types | Templates per type (min–median–max) | Rows covered by top-10 types | Military/security share of rows | Largest sector |
 |---|---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Distinct entity types overall: 410; (category, entity) combinations: 1304
 | 04-consult.csv | Consult | 40 | 1–2–8 | 45% | 26% | government/political |
 | 05-engage_in_diplomatic_cooperation.csv | Engage in Diplomatic Cooperation | 48 | 1–2–4 | 30% | 9% | government/political |
 | 06-engage_in_material_cooperation.csv | Engage in Material Cooperation | 46 | 1–2–5 | 36% | 9% | government/political |
-| 07-provide_aid.csv | Provide Aid | 43 | 1–2–6 | 39% | 6% | government/political |
+| 07-provide_aid.csv | Provide Aid | 44 | 1–2–6 | 39% | 6% | humanitarian/civil society |
 | 08-yield.csv | Yield | 41 | 1–2–7 | 48% | 29% | government/political |
 | 09-investigate.csv | Investigate | 40 | 1–2–9 | 43% | 34% | military/security |
 | 10-demand.csv | Demand | 100 | 1–1–1 | 10% | 18% | government/political |
@@ -20,8 +20,8 @@ Distinct entity types overall: 410; (category, entity) combinations: 1304
 | 12-reject.csv | Reject | 39 | 1–2–8 | 48% | 27% | government/political |
 | 13-threaten.csv | Threaten | 100 | 1–1–1 | 10% | 20% | government/political |
 | 14-protest.csv | Protest | 55 | 1–2–2 | 20% | 11% | economy/infrastructure |
-| 15-exhibit_force.csv | Exhibit Force | 39 | 1–2–7 | 42% | 49% | military/security |
-| 16-reduce_relations.csv | Reduce Relations | 85 | 1–1–3 | 22% | 4% | government/political |
+| 15-exhibit_force.csv | Exhibit Force | 41 | 1–2–7 | 42% | 51% | military/security |
+| 16-reduce_relations.csv | Reduce Relations | 86 | 1–1–3 | 22% | 4% | government/political |
 | 17-coerce.csv | Coerce | 42 | 1–2–7 | 50% | 43% | military/security |
 | 18-assault.csv | Assault | 43 | 1–2–4 | 36% | 88% | military/security |
 | 19-fight.csv | Fight | 100 | 1–1–1 | 10% | 76% | military/security |
@@ -29,14 +29,14 @@ Distinct entity types overall: 410; (category, entity) combinations: 1304
 
 ## Sector composition of all rows (keyword lexicon)
 
-- government/political: 8208 rows (31.1%), 110 entity types
-- military/security: 7164 rows (27.1%), 148 entity types
+- government/political: 8220 rows (31.1%), 111 entity types
+- military/security: 7188 rows (27.2%), 150 entity types
 - economy/infrastructure: 2184 rows (8.3%), 45 entity types
-- humanitarian/civil society: 2124 rows (8.0%), 18 entity types
-- diplomatic/international: 1536 rows (5.8%), 15 entity types
-- health: 1524 rows (5.8%), 16 entity types
-- other: 1248 rows (4.7%), 35 entity types
+- humanitarian/civil society: 2148 rows (8.1%), 20 entity types
+- diplomatic/international: 1524 rows (5.8%), 15 entity types
+- health: 1512 rows (5.7%), 16 entity types
 - justice/legal: 1224 rows (4.6%), 9 entity types
+- other: 1212 rows (4.6%), 35 entity types
 - media/education/culture: 1116 rows (4.2%), 11 entity types
 - civilian (generic): 72 rows (0.3%), 3 entity types
 

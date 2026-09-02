@@ -373,15 +373,16 @@ file,category,entity_type,sector,pair_ids,rows,share_of_category_rows
 07-provide_aid.csv,Provide Aid,port authority director,government/political,2,24,0.02
 07-provide_aid.csv,Provide Aid,police chief,military/security,2,24,0.02
 07-provide_aid.csv,Provide Aid,fire department chief,other,2,24,0.02
-07-provide_aid.csv,Provide Aid,emergency dispatcher,other,2,24,0.02
 07-provide_aid.csv,Provide Aid,power-grid engineer,economy/infrastructure,2,24,0.02
 07-provide_aid.csv,Provide Aid,water utility manager,economy/infrastructure,2,24,0.02
 07-provide_aid.csv,Provide Aid,school principal,media/education/culture,2,24,0.02
 07-provide_aid.csv,Provide Aid,harbor master,other,1,12,0.01
 07-provide_aid.csv,Provide Aid,airport security chief,economy/infrastructure,1,12,0.01
 07-provide_aid.csv,Provide Aid,border service chief,military/security,1,12,0.01
-07-provide_aid.csv,Provide Aid,pharmacist,health,1,12,0.01
+07-provide_aid.csv,Provide Aid,humanitarian logistics coordinator,humanitarian/civil society,1,12,0.01
+07-provide_aid.csv,Provide Aid,housing recovery coordinator,humanitarian/civil society,1,12,0.01
 07-provide_aid.csv,Provide Aid,logistics manager,economy/infrastructure,1,12,0.01
+07-provide_aid.csv,Provide Aid,emergency dispatcher,other,1,12,0.01
 07-provide_aid.csv,Provide Aid,consumer protection officer,military/security,1,12,0.01
 08-yield.csv,Yield,interior minister,government/political,7,84,0.07
 08-yield.csv,Yield,defense minister,government/political,6,72,0.06
@@ -975,23 +976,24 @@ file,category,entity_type,sector,pair_ids,rows,share_of_category_rows
 15-exhibit_force.csv,Exhibit Force,harbor master,other,2,24,0.02
 15-exhibit_force.csv,Exhibit Force,airport security chief,economy/infrastructure,2,24,0.02
 15-exhibit_force.csv,Exhibit Force,emergency services chief,other,2,24,0.02
-15-exhibit_force.csv,Exhibit Force,fire department chief,other,2,24,0.02
-15-exhibit_force.csv,Exhibit Force,rescue team leader,other,2,24,0.02
 15-exhibit_force.csv,Exhibit Force,hospital security chief,health,2,24,0.02
 15-exhibit_force.csv,Exhibit Force,school security coordinator,humanitarian/civil society,2,24,0.02
 15-exhibit_force.csv,Exhibit Force,factory security manager,economy/infrastructure,2,24,0.02
 15-exhibit_force.csv,Exhibit Force,warehouse security supervisor,other,2,24,0.02
 15-exhibit_force.csv,Exhibit Force,energy minister,government/political,2,24,0.02
 15-exhibit_force.csv,Exhibit Force,public transport director,economy/infrastructure,2,24,0.02
+15-exhibit_force.csv,Exhibit Force,fire department chief,other,1,12,0.01
+15-exhibit_force.csv,Exhibit Force,rescue team leader,other,1,12,0.01
 15-exhibit_force.csv,Exhibit Force,cybersecurity chief,economy/infrastructure,1,12,0.01
 15-exhibit_force.csv,Exhibit Force,telecom operator,economy/infrastructure,1,12,0.01
+15-exhibit_force.csv,Exhibit Force,public order commander,military/security,1,12,0.01
+15-exhibit_force.csv,Exhibit Force,security patrol commander,military/security,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,foreign minister,government/political,3,36,0.03
 16-reduce_relations.csv,Reduce Relations,regional governor,government/political,3,36,0.03
 16-reduce_relations.csv,Reduce Relations,central foreign ministry,government/political,2,24,0.02
 16-reduce_relations.csv,Reduce Relations,national foreign ministry,government/political,2,24,0.02
 16-reduce_relations.csv,Reduce Relations,regional foreign ministry,government/political,2,24,0.02
 16-reduce_relations.csv,Reduce Relations,municipal foreign ministry,government/political,2,24,0.02
-16-reduce_relations.csv,Reduce Relations,central consular office,diplomatic/international,2,24,0.02
 16-reduce_relations.csv,Reduce Relations,national consular office,government/political,2,24,0.02
 16-reduce_relations.csv,Reduce Relations,regional consular office,government/political,2,24,0.02
 16-reduce_relations.csv,Reduce Relations,central trade minister,government/political,2,24,0.02
@@ -1006,6 +1008,7 @@ file,category,entity_type,sector,pair_ids,rows,share_of_category_rows
 16-reduce_relations.csv,Reduce Relations,national ambassador,government/political,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,regional ambassador,government/political,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,municipal ambassador,government/political,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,central consular office,diplomatic/international,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,central parliament speaker,government/political,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,national parliament speaker,government/political,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,regional parliament speaker,government/political,1,12,0.01
@@ -1034,6 +1037,7 @@ file,category,entity_type,sector,pair_ids,rows,share_of_category_rows
 16-reduce_relations.csv,Reduce Relations,national border service chief,military/security,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,regional border service chief,military/security,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,municipal border service chief,military/security,1,12,0.01
+16-reduce_relations.csv,Reduce Relations,foreign ministry official,government/political,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,municipal consular office,government/political,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,deputy foreign minister,government/political,1,12,0.01
 16-reduce_relations.csv,Reduce Relations,ambassador,diplomatic/international,1,12,0.01
@@ -1244,7 +1248,7 @@ file,category,entity_type,sector,pair_ids,rows,share_of_category_rows
 19-fight.csv,Fight,reserve coast guard sailor,military/security,1,12,0.01
 19-fight.csv,Fight,rapid-response coast guard sailor,military/security,1,12,0.01
 19-fight.csv,Fight,frontline naval marine,military/security,1,12,0.01
-19-fight.csv,Fight,territorial defense naval marine,military/security,1,12,0.01
+19-fight.csv,Fight,territorial defense marine,military/security,1,12,0.01
 19-fight.csv,Fight,reserve naval marine,military/security,1,12,0.01
 19-fight.csv,Fight,rapid-response naval marine,military/security,1,12,0.01
 19-fight.csv,Fight,frontline UAV technician,economy/infrastructure,1,12,0.01

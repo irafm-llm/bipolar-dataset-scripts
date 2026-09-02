@@ -8,15 +8,16 @@ Version 1.1 is the current public release. All `pair_id`, category, timeframe, s
 
 - Human Task A identified recurring problems involving verb tense, grammar, actor plausibility and attribution of the described conduct.
 - The complete English corpus was screened for those patterns and corrected at template level while preserving identifiers and the factorial minimal-pair design.
+- Post-correction Task A2 (annotation round **1.1a2**) repeated the English-content review on the same 1,320 row identities. Neither reviewer flagged any row or sampled template on any criterion.
 - Subsequent trilingual quality checks resolved remaining reproducible source, actor-role and cross-language consistency problems before the final human reassessment.
-- `templates.csv` and `entity_inventory.csv` were rebuilt from the final data. The release contains 2,200 templates, 810 scenarios, 1,304 category/entity combinations and 410 distinct entity types.
+- `templates.csv` and `entity_inventory.csv` were rebuilt from the final data. The release contains 2,200 templates, 810 scenarios, 1,308 category/entity combinations and 415 distinct entity types.
 
 ### Russian and Ukrainian
 
 - The initial Microsoft Translator output was superseded.
 - Final Russian and Ukrainian translations were produced from the corrected English sources using Claude Opus 5 under fixed rules for meaning, temporal framing, conduct valence, nationality expression and nationality-pair symmetry.
 - Corpus-wide consistency checks established one canonical rendering per temporal opener and entity type and one Russian/Ukrainian predicate per scenario cell. All 13,200 nationality pairs are identical within each language apart from the nationality expression.
-- The final native-speaker reassessment is deposited as annotation round **1.1d2**. Rows flagged by at least one reader were 36/1,320 (2.7%) for Russian and 48/1,320 (3.6%) for Ukrainian. No meaning, nationality, temporal or conduct-valence problems were reported. No changes were made to the dataset after 1.1d2.
+- The final native-speaker reassessment is deposited as annotation round **1.1d2**. Rows flagged by at least one reader were 36/1,320 (2.7%) for Russian and 48/1,320 (3.6%) for Ukrainian. No meaning, nationality, temporal or conduct-valence problems were reported. Neither post-revision reassessment prompted further changes.
 
 ### Documentation and validation
 

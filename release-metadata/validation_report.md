@@ -1,8 +1,10 @@
 # Automated validation report for MIRROR-EN-UA-RU version 1.1
 
+Reference year for year openers: 2026
+
 Files: 22  Rows: 26400  Failures: 0
 
-| File | Rows | pair_ids | Complete pairs (12/12) | Side-sym. EN pairs | Side-sym. RU/UK pairs | Unique EN | Unique RU | Unique UK | Failures |
+| File | Rows | pair_ids | Complete pairs (12/12) | Side-sym. EN pairs | Frame-sym. (pos/neg) | Tense-consistent rows | Translation-consistent rows | Unique EN | Failures |
 |---|---|---|---|---|---|---|---|---|---|
 | 01-make_statement.csv | 1200 | 100 | 100/100 | 600/600 | 600/600 | 1200/1200 | 1200/1200 | 1200/1200 | 0 |
 | 02-appeal.csv | 1200 | 100 | 100/100 | 600/600 | 600/600 | 1200/1200 | 1200/1200 | 1200/1200 | 0 |
@@ -26,22 +28,18 @@ Files: 22  Rows: 26400  Failures: 0
 | 18-assault.csv | 1200 | 100 | 100/100 | 600/600 | 600/600 | 1200/1200 | 1200/1200 | 1200/1200 | 0 |
 | 19-fight.csv | 1200 | 100 | 100/100 | 600/600 | 600/600 | 1200/1200 | 1200/1200 | 1200/1200 | 0 |
 | 20-mass_violence.csv | 1200 | 100 | 100/100 | 600/600 | 600/600 | 1200/1200 | 1200/1200 | 1200/1200 | 0 |
+| **Total** | 26400 | 2200 | 2200/2200 | 13200/13200 | 13200/13200 | 26400/26400 | 26400/26400 | 26400/26400 | 0 |
 
-## Between-row checks
+Cross-file duplicated English sentences: 0
 
-| check | result |
-|---|---|
-| one Russian and one Ukrainian predicate per (`scenario_id`, `timeframe`, `sentiment`) | pass (4,860 cells) |
-| RU/UK future aspect parallel | pass (8,800 Future rows) |
-| past-tense verb agrees with the actor's gender and number | pass |
-| single apostrophe codepoint in `uk` (U+0027) | pass |
-| one Cyrillic rendering per English temporal opener, all 30 distinct per language | pass |
-| one Russian and one Ukrainian rendering per `entity_type` | pass |
-| no comma between the temporal opener and the nationality adjective | pass |
-| `NGO` rendered as RU `НПО` / UK `НУО` | pass |
-| `19-fight` main verb uniform across the file | pass |
+## Failures by check
 
-From the root of the matching GitHub release, reproduce this report with
-`scripts/run_all.sh /path/to/zenodo-download /tmp/mirror-validation`. The validator includes
-the within-row, mirror, scenario-cell, tense, terminology and agreement checks used for this
-release.
+- C0 files: 0
+- C1 schema: 0
+- C2 design: 0
+- C3 labels: 0
+- C4 side-sym: 0
+- C5 frame-sym: 0
+- C6 tense: 0
+- C7 translation: 0
+- C8 unique: 0

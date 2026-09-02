@@ -70,7 +70,7 @@ representing Ukraine and entities representing Russia.
    "Next month, ... will ..." + base verb. NOTE (v1.1): in the delivered data
    the model drew the opener per template from a fixed set -
    Past: In 2021/2022/2023/2024, Last year, Last month, Last winter,
-         Earlier this year, Two years ago, During the previous spring;
+         Earlier this year, Two years ago, Last spring;
    Present: Today, This week, This month, Right now, At present, These days,
          Currently, This morning, This afternoon, Tonight;
    Future: Tomorrow, Next week, Next month, Later this year, Next year,

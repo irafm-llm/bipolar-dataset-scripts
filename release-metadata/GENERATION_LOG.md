@@ -28,7 +28,9 @@ Russian and Ukrainian were then translated anew from the corrected English sourc
 
 Before final reassessment, corpus-wide checks consolidated recurring terminology, actor-role renderings, temporal openers and scenario predicates and corrected reproducible trilingual defects. The final corpus contains one Russian and one Ukrainian rendering per entity type and temporal opener and one predicate per (`scenario_id`, `timeframe`, `sentiment`) cell.
 
-## 5. Final human reassessment (1.1d2)
+## 5. Post-revision human reassessments (1.1a2 and 1.1d2)
+
+The English-content reassessment reused the same 1,320 row identities, two native English reviewers and eight criteria as Task A after the corpus-wide corrections. It is reported as **1.1a2** (Task A2). Neither reviewer flagged any row or template on any criterion; raw agreement was 1.000, while Cohen's kappa is not estimable because no problem flags were assigned.
 
 The final translation reassessment reused the same 1,320 row identities, native readers and six criteria as Task D. It is identified in the GitHub repository as **1.1d2**.
 
@@ -36,7 +38,7 @@ The final translation reassessment reused the same 1,320 row identities, native 
 - Ukrainian: 48 rows (3.6%) flagged by at least one reader and 6 (0.5%) by both; raw agreement 0.968, Cohen's κ 0.206.
 - No problems were reported for meaning, nationality expression, temporal framing or conduct-valence preservation. Remaining flags concerned naturalness and six Ukrainian grammar instances.
 
-The proposed alternative formulations are retained in the authors' audit records. No dataset rewriting was performed after 1.1d2.
+The proposed alternative formulations are retained in the authors' audit records. Neither A2 nor D2 prompted further dataset rewriting.
 
 ## 6. Final automated validation and reproducibility material
 
