@@ -1,6 +1,6 @@
 {
  "dataset": "MIRROR-EN-UA-RU",
- "version": "1.1",
+ "version": "1.2",
  "encoding": "UTF-8 (no BOM)",
  "delimiter": ",",
  "columns": [

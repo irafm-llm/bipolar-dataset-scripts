@@ -2,15 +2,16 @@
 GENERATION PROMPT DOCUMENTATION
 Synthetic multilingual dataset of mirrored sentences for evaluating
 nationality bias in large language models
-Zenodo concept DOI: 10.5281/zenodo.20641321 (this file: version 1.1, August 2026)
+Zenodo concept DOI: 10.5281/zenodo.20641321 (this file: version 1.2, October 2026)
 ================================================================================
 
 Generation model:     OpenAI GPT-5.4
 Interface:            ChatGPT web interface, Projects feature
 Date of generation:   22 February 2026
 Output language:      English. Russian and Ukrainian translations were
-                      produced separately: in version 1.1 all 22 files with
-                      Claude Opus 5 (Aug 2026; Ukrainian-actor sentence
+                      produced separately: since version 1.1 all 22 files
+                      translated anew from the corrected English sources
+                      with Claude Opus 5 (Aug 2026; Ukrainian-actor sentence
                       translated, Russian-actor sentence derived by controlled
                       substitution). Version 1.0 had used the Microsoft 365
                       Excel TRANSLATE function (Microsoft Translator, Feb 2026)
